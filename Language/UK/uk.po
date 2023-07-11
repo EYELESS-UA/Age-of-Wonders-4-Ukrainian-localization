@@ -7694,16 +7694,16 @@ msgstr "Zone Of Control"
 
 msgid "CONCEPT@ACCURACY@DESCRIPTION"
 msgstr ""
-"Accuracy is the likelihood of attacks landing successfully. If the attack "
-"does not land, it misses or grazes the target.[bulletlist][bullet/]Grazes "
-"deal half damage.[bullet/]Misses deal no damage.[bullet/]Misses can hit "
-"random adjacent units next to the target.[/bulletlist]"
+"Точність — це ймовірність влучення атаки в ціль. У разі промаху атака "
+"проходить повз ціль або завдає легкої шкоди.[bulletlist][bullet/]Легка шкода "
+"дорівнює половині повноцінної шкоди.[bullet/]Промахи не завдають шкоди.[bullet/]Промахи можуть "
+"вразити випадкові сусідні одиниці поруч із ціллю.[/bulletlist]"
 
 msgid "CONCEPT@ACCURACY@HYPERLINK"
-msgstr "[hyperlink,GLOBAL.AccuracyConcept]Accuracy[/hyperlink]"
+msgstr "[hyperlink,GLOBAL.AccuracyConcept]Точність[/hyperlink]"
 
 msgid "CONCEPT@ACCURACY@NAME"
-msgstr "Accuracy"
+msgstr "Точність"
 
 msgid "CONCEPT@ACTION_POINTS@DESCRIPTION"
 msgstr ""
@@ -10190,7 +10190,7 @@ msgstr ""
 "is threatened.[/helpcolor]"
 
 msgid "CULTURE_FEUDAL@FEUDAL@NAME"
-msgstr "Feudal"
+msgstr "Феодали"
 
 msgid "CULTURE_FEUDAL@FEUDAL@TOME_DESCRIPTION"
 msgstr ""
@@ -13411,7 +13411,7 @@ msgstr ""
 "strength and prefer to charge head-on into bloody battles.[/helpcolor]"
 
 msgid "CULTURE_SAVAGE@SAVAGE@NAME"
-msgstr "Barbarian"
+msgstr "Варвари"
 
 msgid "CULTURE_SAVAGE@UNIT_01@NAME"
 msgstr "Sunderer^f"
@@ -19514,20 +19514,20 @@ msgid "ESSENCE_FORCE@SKIN_ORC@DESCRIPTION"
 msgstr "Placeholder test"
 
 msgid "ESSENCE_FORCE@SKIN_ORC@NAME"
-msgstr "Orcoid"
+msgstr "Оркоїд"
 
 msgid "ESSENCE_GRACE@SKIN_ELVES@BIO"
 msgstr ""
 "Slender, pointy-eared beings whose kin were the first to inhabit the realms."
 
 msgid "ESSENCE_GRACE@SKIN_ELVES@NAME"
-msgstr "Elfkin"
+msgstr "Ельф"
 
 msgid "ESSENCE_GRACE@SKIN_TIGRAN@BIO"
 msgstr "Cat-like beings who move with feline grace."
 
 msgid "ESSENCE_GRACE@SKIN_TIGRAN@NAME"
-msgstr "Feline"
+msgstr "Фелінід"
 
 msgid "ESSENCE_HORDE@SKIN_GOBLINS@BIO"
 msgstr ""
@@ -19535,13 +19535,13 @@ msgstr ""
 "strangely fascinated by sheep."
 
 msgid "ESSENCE_HORDE@SKIN_GOBLINS@NAME"
-msgstr "Goblinoid"
+msgstr "Гобліноїд"
 
 msgid "ESSENCE_HORDE@SKIN_RATKIN@BIO"
 msgstr "Rodent-like beings whose groups are often referred to as mischiefs."
 
 msgid "ESSENCE_HORDE@SKIN_RATKIN@NAME"
-msgstr "Ratkin"
+msgstr "Щуролюд"
 
 msgid "ESSENCE_STOUT@SKIN_DWARF@BIO"
 msgstr ""
@@ -19549,7 +19549,7 @@ msgstr ""
 "regions of their world."
 
 msgid "ESSENCE_STOUT@SKIN_DWARF@NAME"
-msgstr "Dwarfkin"
+msgstr "Дворфоїд"
 
 msgid "ESSENCE_STOUT@SKIN_MOLEMEN@BIO"
 msgstr ""
@@ -19557,7 +19557,7 @@ msgstr ""
 "heightened sense of touch."
 
 msgid "ESSENCE_STOUT@SKIN_MOLEMEN@NAME"
-msgstr "Molekin"
+msgstr "Кротолюд"
 
 msgid "ESSENCE_STOUT@SKIN_TOADMEN@BIO"
 msgstr ""
@@ -19565,7 +19565,7 @@ msgstr ""
 "communicate through loud croaking."
 
 msgid "ESSENCE_STOUT@SKIN_TOADMEN@NAME"
-msgstr "Toadkin"
+msgstr "жаболюд"
 
 msgid "ESSENCE_VERSATILE@SKIN_HALFLING@BIO"
 msgstr ""
@@ -19573,7 +19573,7 @@ msgstr ""
 "well-deserved nap."
 
 msgid "ESSENCE_VERSATILE@SKIN_HALFLING@NAME"
-msgstr "Halfling"
+msgstr "Напіврослик"
 
 msgid "ESSENCE_VERSATILE@SKIN_HUMAN@BIO"
 msgstr ""
@@ -19581,7 +19581,7 @@ msgstr ""
 "times."
 
 msgid "ESSENCE_VERSATILE@SKIN_HUMAN@NAME"
-msgstr "Human"
+msgstr "Люди"
 
 msgid "ESSENCE_VERSATILE@SKIN_SATYR@BIO"
 msgstr ""
@@ -21166,10 +21166,10 @@ msgid "FORM_TRAITS@01@DESCRIPTION"
 msgstr "{HitPen} harder to hit by ranged attacks."
 
 msgid "FORM_TRAITS@01@LORE"
-msgstr "[helpcolor]Useful for approaching enemy ranged units.[/helpcolor]"
+msgstr "[helpcolor]Корисно для наближення до ворожих одиниць дальнього бою.[/helpcolor]"
 
 msgid "FORM_TRAITS@01@NAME"
-msgstr "Quick Reflexes"
+msgstr "Швидкі рефлекси"
 
 msgid "FORM_TRAITS@02@BIO"
 msgstr "They are vigorous and strong, true beacons of health."
@@ -21178,10 +21178,10 @@ msgid "FORM_TRAITS@02@DESCRIPTION"
 msgstr "{hp} <<m:{GLOBAL.HitPointConcept.Hyperlink}>>."
 
 msgid "FORM_TRAITS@02@LORE"
-msgstr "[helpcolor]Your units can take a little more damage.[/helpcolor]"
+msgstr "[helpcolor]Ваші війська можуть витримати трохи більше шкоди.[/helpcolor]"
 
 msgid "FORM_TRAITS@02@NAME"
-msgstr "Hearty"
+msgstr "Міцне здоров'я"
 
 msgid "FORM_TRAITS@03@BIO"
 msgstr ""
@@ -21192,11 +21192,11 @@ msgstr "Gains {amount} {GLOBAL.StatusResistanceConcept}."
 
 msgid "FORM_TRAITS@03@LORE"
 msgstr ""
-"[helpcolor]Units are less likely to be affected by negative status effects.[/"
+"[helpcolor]Юніти менш схильні до впливу негативних ефектів.[/"
 "helpcolor]"
 
 msgid "FORM_TRAITS@03@NAME"
-msgstr "Resilient"
+msgstr "Стійкість"
 
 msgid "FORM_TRAITS@04@BIO"
 msgstr "They prefer to fight using magic."
@@ -21205,7 +21205,7 @@ msgid "FORM_TRAITS@04@DESCRIPTION"
 msgstr "{GLOBAL.MagicConcept.Hyperlink} attacks deal {damage} damage."
 
 msgid "FORM_TRAITS@04@LORE"
-msgstr "[helpcolor]Useful for armies focusing on battle mages.[/helpcolor]"
+msgstr "[helpcolor]Корисно для армій, зосереджених на бойових магах.[/helpcolor]"
 
 msgid "FORM_TRAITS@04@NAME"
 msgstr "Arcane Focus"
@@ -21220,10 +21220,10 @@ msgstr ""
 "Hyperlink} and {amount2} {GLOBAL.ResistanceConcept.Hyperlink}."
 
 msgid "FORM_TRAITS@05@LORE"
-msgstr "[helpcolor]Encourages a slow and steady play style.[/helpcolor]"
+msgstr "[helpcolor]Заохочує повільний і стабільний стиль гри.[/helpcolor]"
 
 msgid "FORM_TRAITS@05@NAME"
-msgstr "Bulwark"
+msgstr "Оплот"
 
 msgid "FORM_TRAITS@06@BIO"
 msgstr ""
@@ -21271,7 +21271,7 @@ msgstr ""
 "[helpcolor]Units become tougher when standing next to allies.[/helpcolor]"
 
 msgid "FORM_TRAITS@08@NAME"
-msgstr "Defensive Tactics"
+msgstr "Оборонна тактика"
 
 msgid "FORM_TRAITS@09@BIO"
 msgstr ""
@@ -21305,7 +21305,7 @@ msgid "FORM_TRAITS@10@LORE"
 msgstr "[helpcolor]Great for mobile hit and run tactics.[/helpcolor]"
 
 msgid "FORM_TRAITS@10@NAME"
-msgstr "Elusive"
+msgstr "Невловимий"
 
 msgid "FORM_TRAITS@11@BIO"
 msgstr "The more they are pushed to the edge, the harder they will fight."
@@ -21353,10 +21353,10 @@ msgid "FORM_TRAITS@13@DESCRIPTION"
 msgstr "{armor} {GLOBAL.DefenseConcept.Hyperlink}."
 
 msgid "FORM_TRAITS@13@LORE"
-msgstr "[helpcolor]Units take less damage from physical attacks.[/helpcolor]"
+msgstr "[helpcolor]Юніти отримують менше шкоди від фізичних атак.[/helpcolor]"
 
 msgid "FORM_TRAITS@13@NAME"
-msgstr "Tough"
+msgstr "Міцний"
 
 msgid "FORM_TRAITS@14@BIO"
 msgstr "The harsh cold no longer bothers them."
@@ -21428,11 +21428,11 @@ msgstr ""
 
 msgid "FORM_TRAITS@17@LORE"
 msgstr ""
-"[helpcolor]Units can more easily resist enemies that use a lot of status "
-"effects.[/helpcolor]"
+"[helpcolor]Юнітам простіше протистояти ворогам, які використовують різноманітні "
+"ефекти.[/helpcolor]"
 
 msgid "FORM_TRAITS@17@NAME"
-msgstr "Resolute"
+msgstr "Рішучість"
 
 msgid "FORM_TRAITS@ADAPTABLE@BIO"
 msgstr ""
@@ -21444,11 +21444,11 @@ msgstr "{XPbonus} {GLOBAL.ExperienceConcept.Hyperlink}."
 
 msgid "FORM_TRAITS@ADAPTABLE@LORE"
 msgstr ""
-"[helpcolor]Units grow strong at a faster rate from winning fights.[/"
+"[helpcolor]Юніти швидше стають сильними, перемагаючи у бою.[/"
 "helpcolor]"
 
 msgid "FORM_TRAITS@ADAPTABLE@NAME"
-msgstr "Adaptable"
+msgstr "Адаптивний"
 
 msgid "FORM_TRAITS@ANCIENT_WARRIORS@BIO"
 msgstr "Their keen vision makes for great feats of archery."
@@ -21459,10 +21459,10 @@ msgstr ""
 "Hyperlink} and {GLOBAL.MagicConcept.Hyperlink} attacks."
 
 msgid "FORM_TRAITS@ANCIENT_WARRIORS@LORE"
-msgstr "[helpcolor]Ranged shots hit more often.[/helpcolor]"
+msgstr "[helpcolor]Удари з дистанції влучають частіше.[/helpcolor]"
 
 msgid "FORM_TRAITS@ANCIENT_WARRIORS@NAME"
-msgstr "Keen-Sighted"
+msgstr "Гострозорість"
 
 msgid "FORM_TRAITS@COLD_BLOODED@BIO"
 msgstr "Some call them cold-hearted. They prefer the term \"practical\"."
@@ -21474,7 +21474,7 @@ msgid "FORM_TRAITS@COLD_BLOODED@LORE"
 msgstr "[helpcolor]Units are less likely to rout.[/helpcolor]"
 
 msgid "FORM_TRAITS@COLD_BLOODED@NAME"
-msgstr "Cold Blooded"
+msgstr "Xолоднокровний"
 
 msgid "FORM_TRAITS@EXTRA_RETALIATION@DESCRIPTION"
 msgstr "{retaliation} {GLOBAL.RetaliationConcept.Hyperlink}"
@@ -21496,10 +21496,10 @@ msgstr ""
 ">> per {GLOBAL.WorldMapConcept.Hyperlink} {GLOBAL.TurnConcept.Hyperlink}."
 
 msgid "FORM_TRAITS@GORGERS@LORE"
-msgstr "[helpcolor]Armies can fight longer on the world map.[/helpcolor]"
+msgstr "[helpcolor]Армії можуть довше воювати на карті світу.[/helpcolor]"
 
 msgid "FORM_TRAITS@GORGERS@NAME"
-msgstr "Fast Recuperation"
+msgstr "Швидке відновлення"
 
 msgid "FORM_TRAITS@MAGIC_RESISTANT@BIO"
 msgstr "They have a natural armor against magical damage."
@@ -21508,7 +21508,7 @@ msgid "FORM_TRAITS@MAGIC_RESISTANT@DESCRIPTION"
 msgstr "{resist} {GLOBAL.ResistanceConcept.Hyperlink}."
 
 msgid "FORM_TRAITS@MAGIC_RESISTANT@LORE"
-msgstr "[helpcolor]Reduce damage from magical attacks.[/helpcolor]"
+msgstr "[helpcolor]Знижує шкоду від магічних атак.[/helpcolor]"
 
 msgid "FORM_TRAITS@MAGIC_RESISTANT@NAME"
 msgstr "Resistant"
@@ -21531,7 +21531,7 @@ msgstr ""
 "your other units.[/helpcolor]"
 
 msgid "FORM_TRAITS@NIGHTMARE_MASTERS@NAME"
-msgstr "Nightmare Mounts"
+msgstr "Всаднік на кошмарі"
 
 msgid "FORM_TRAITS@SNEAKY@BIO"
 msgstr ""
@@ -21564,7 +21564,7 @@ msgstr ""
 "not affect non-mounted units.[/helpcolor]"
 
 msgid "FORM_TRAITS@SPIDER_MASTERS@NAME"
-msgstr "Spider Mounts"
+msgstr "Всаднік на Пауку"
 
 msgid "FORM_TRAITS@STRONG@BIO"
 msgstr "They pride themselves on their strength and musculature."
@@ -21580,7 +21580,7 @@ msgstr ""
 "and ranged units.[/helpcolor]"
 
 msgid "FORM_TRAITS@STRONG@NAME"
-msgstr "Strong"
+msgstr "Сильний"
 
 msgid "FORM_TRAITS@UNICORN_MASTERS@BIO"
 msgstr "They share a deep kinship with Unicorns."
@@ -21600,7 +21600,7 @@ msgstr ""
 "your other units.[/helpcolor]"
 
 msgid "FORM_TRAITS@UNICORN_MASTERS@NAME"
-msgstr "Unicorn Mounts"
+msgstr "Всаднік на Однорозі"
 
 msgid "FORM_TRAITS@WAR_MAGE@DESCRIPTION"
 msgstr ""
@@ -21627,7 +21627,7 @@ msgstr ""
 "Grants the {GLOBAL.PROPERTIES.ENFEEBLING_HOWL_MOUNT.Hyperlink} ability."
 
 msgid "FORM_TRAITS@WHITE_WOLF_MASTERS@NAME"
-msgstr "Wolf Mounts"
+msgstr "Всаднік на волку"
 
 msgid "FRONTEND_TUTORIAL@CULTURESELECT@DESCRIPTION"
 msgstr ""
@@ -23791,7 +23791,7 @@ msgid "INTERFACE@BUTTON@ACCEPT_FAIR_TRADE"
 msgstr "It's a deal!"
 
 msgid "INTERFACE@BUTTON@APPLY"
-msgstr "Apply"
+msgstr "Застосувати"
 
 msgid "INTERFACE@BUTTON@ASSIGN_GOVERNOR"
 msgstr "Assign Governor"
@@ -23834,7 +23834,7 @@ msgstr ""
 "CityStabilityConcept.Hyperlink} bonus to wane over time."
 
 msgid "INTERFACE@BUTTON@CREDITS"
-msgstr "Credits"
+msgstr "титри"
 
 msgid "INTERFACE@BUTTON@DISBAND"
 msgstr ""
@@ -23846,7 +23846,7 @@ msgid "INTERFACE@BUTTON@DONE"
 msgstr "Done"
 
 msgid "INTERFACE@BUTTON@EDIT"
-msgstr "Edit"
+msgstr "Редагувати"
 
 msgid "INTERFACE@BUTTON@EMPIRE_PROGRESSION"
 msgstr "Empire Progression"
@@ -23930,7 +23930,7 @@ msgstr ""
 "NegotiationConcept]negotiations[/hyperlink]."
 
 msgid "INTERFACE@BUTTON@EXIT_GAME"
-msgstr "Exit Game"
+msgstr "Вийти з гри"
 
 msgid "INTERFACE@BUTTON@HOST_PRIVATE_SESSION"
 msgstr "Host Private"
@@ -23966,28 +23966,28 @@ msgid "INTERFACE@BUTTON@LEAVE"
 msgstr "Leave"
 
 msgid "INTERFACE@BUTTON@LOAD"
-msgstr "Load Game"
+msgstr "Завантажити гру"
 
 msgid "INTERFACE@BUTTON@LOAD_GAME"
-msgstr "Load Game"
+msgstr "Завантажити гру"
 
 msgid "INTERFACE@BUTTON@MUTE"
 msgstr "Mute"
 
 msgid "INTERFACE@BUTTON@NEW_GAME"
-msgstr "New Game"
+msgstr "Нова гра"
 
 msgid "INTERFACE@BUTTON@NEXT"
-msgstr "Next"
+msgstr "Далі"
 
 msgid "INTERFACE@BUTTON@NO"
-msgstr "No"
+msgstr "Ні"
 
 msgid "INTERFACE@BUTTON@OK"
 msgstr "OK"
 
 msgid "INTERFACE@BUTTON@ONLINE_MULTIPLAYER"
-msgstr "Online Multiplayer"
+msgstr "Мережева гра"
 
 msgid "INTERFACE@BUTTON@ONWARD"
 msgstr "Onward"
@@ -23996,10 +23996,10 @@ msgid "INTERFACE@BUTTON@OPEN"
 msgstr "Open"
 
 msgid "INTERFACE@BUTTON@OPEN_PROFILE"
-msgstr "Open Profile"
+msgstr "Відкрити Профіль"
 
 msgid "INTERFACE@BUTTON@OPTIONS"
-msgstr "Settings"
+msgstr "Налаштування"
 
 msgid "INTERFACE@BUTTON@PLAY"
 msgstr "Play"
@@ -24008,25 +24008,25 @@ msgid "INTERFACE@BUTTON@PREVIOUS"
 msgstr "Previous"
 
 msgid "INTERFACE@BUTTON@QUICK_SAVE"
-msgstr "Quick Save"
+msgstr "Швидке збереження"
 
 msgid "INTERFACE@BUTTON@QUICK_START"
-msgstr "Quick Start"
+msgstr "Швидкий початок"
 
 msgid "INTERFACE@BUTTON@READY"
-msgstr "Ready"
+msgstr "Готовий"
 
 msgid "INTERFACE@BUTTON@REFRESH"
-msgstr "Refresh"
+msgstr "Оновити"
 
 msgid "INTERFACE@BUTTON@RELOAD"
-msgstr "Reload"
+msgstr "Перезавантажити"
 
 msgid "INTERFACE@BUTTON@REPORT_AND_BLOCK_USER"
 msgstr "Report and Block"
 
 msgid "INTERFACE@BUTTON@REPORT_FEEDBACK"
-msgstr "Report Feedback"
+msgstr "Надіслати звіт"
 
 msgid "INTERFACE@BUTTON@REPORT_OR_BLOCK_USER"
 msgstr "Report / Block"
@@ -24035,13 +24035,13 @@ msgid "INTERFACE@BUTTON@REPORT_USER"
 msgstr "Report"
 
 msgid "INTERFACE@BUTTON@RESTORE_DEFAULTS"
-msgstr "Restore Default"
+msgstr "За замовчуванням"
 
 msgid "INTERFACE@BUTTON@RETRY"
 msgstr "Retry"
 
 msgid "INTERFACE@BUTTON@REVERT"
-msgstr "Revert"
+msgstr "Повернути"
 
 msgid "INTERFACE@BUTTON@REVERT_WARNING"
 msgstr ""
@@ -24049,37 +24049,37 @@ msgstr ""
 "undo all actions that were done in latest round. Do you want to revert now?"
 
 msgid "INTERFACE@BUTTON@SAVE_GAME"
-msgstr "Save Game"
+msgstr "Зберегти гру"
 
 msgid "INTERFACE@BUTTON@SELECT"
-msgstr "Select"
+msgstr "Вибрати"
 
 msgid "INTERFACE@BUTTON@SELL"
-msgstr "Sell"
+msgstr "Продати"
 
 msgid "INTERFACE@BUTTON@SEND"
-msgstr "Send"
+msgstr "Надіслати"
 
 msgid "INTERFACE@BUTTON@SEND_DEMAND"
-msgstr "Send Demand"
+msgstr "Відправити вимогу"
 
 msgid "INTERFACE@BUTTON@SEND_GIFT"
-msgstr "Send Gift"
+msgstr "Відправити подарунок"
 
 msgid "INTERFACE@BUTTON@SEND_GIFT_TO_AI"
-msgstr "Thank you, but consider this a gift."
+msgstr "Дякую, але вважай це подарунком."
 
 msgid "INTERFACE@BUTTON@SEND_ONEWAYTRADE"
-msgstr "Confirm"
+msgstr "Підтвердити"
 
 msgid "INTERFACE@BUTTON@SEND_PROPOSAL"
-msgstr "Send Proposal"
+msgstr "Надіслати пропозицію"
 
 msgid "INTERFACE@BUTTON@SETTINGS_START"
 msgstr "Settings / Start"
 
 msgid "INTERFACE@BUTTON@SETUP"
-msgstr "Setup"
+msgstr "Налаштування"
 
 msgid "INTERFACE@BUTTON@SETUP_START"
 msgstr "Setup / Start"
@@ -24088,28 +24088,28 @@ msgid "INTERFACE@BUTTON@SKIP"
 msgstr "Пропустити"
 
 msgid "INTERFACE@BUTTON@START"
-msgstr "Start"
+msgstr "Почати"
 
 msgid "INTERFACE@BUTTON@START_GAME"
-msgstr "Start Game"
+msgstr "Почати гру"
 
 msgid "INTERFACE@BUTTON@TRESPASS"
 msgstr "Trespass"
 
 msgid "INTERFACE@BUTTON@UNBLOCK"
-msgstr "Unblock"
+msgstr "Розблокувати"
 
 msgid "INTERFACE@BUTTON@UNMUTE"
 msgstr "Unmute"
 
 msgid "INTERFACE@BUTTON@UNREADY"
-msgstr "Unready"
+msgstr "Неготовий"
 
 msgid "INTERFACE@BUTTON@VOTING"
-msgstr "Voting"
+msgstr "Голосування"
 
 msgid "INTERFACE@BUTTON@YES"
-msgstr "Yes"
+msgstr "Так"
 
 msgid "INTERFACE@CASUSBELLI@TRADE_TOOLTIP"
 msgstr ""
@@ -24118,16 +24118,16 @@ msgstr ""
 "Hyperlink} or denouncements."
 
 msgid "INTERFACE@CHAT@CHAT_CUE"
-msgstr "Type something here..."
+msgstr "Введіть щось тут..."
 
 msgid "INTERFACE@CHAT@CHAT_HEADER"
-msgstr "Chat"
+msgstr "Чат"
 
 msgid "INTERFACE@CHAT@CHAT_USERS"
-msgstr "Users"
+msgstr "Користувачі"
 
 msgid "INTERFACE@CHAT@OPEN"
-msgstr "Hold to open Chat Window"
+msgstr "Утримуйте, щоб відкрити вікно чату"
 
 msgid "INTERFACE@CHAT@SOCIAL_HEADER"
 msgstr "Social"
@@ -24679,16 +24679,16 @@ msgid "INTERFACE@COUNTS_AS@RESEARCH_POST"
 msgstr "Counts as [researchpost/] Research Post"
 
 msgid "INTERFACE@CREATE_ACCOUNT_SCREEN@DATE_OF_BIRTH"
-msgstr "Date of Birth"
+msgstr "Дата народження"
 
 msgid "INTERFACE@CREATE_ACCOUNT_SCREEN@DESCRIPTION"
-msgstr "Create new Paradox account"
+msgstr "Створіть новий обліковий запис Paradox"
 
 msgid "INTERFACE@CREATE_ACCOUNT_SCREEN@ENTER_PASSWORD"
-msgstr "Enter password"
+msgstr "Введіть пароль"
 
 msgid "INTERFACE@CREATE_ACCOUNT_SCREEN@ENTER_PASSWORD_AGAIN"
-msgstr "Enter password again"
+msgstr "Введіть пароль ще раз"
 
 msgid "INTERFACE@CREATE_ACCOUNT_SCREEN@ERROR@EULA_NOT_ACCEPTED"
 msgstr "Please read and accept the End-user license agreement"
@@ -24703,21 +24703,21 @@ msgid "INTERFACE@CREATE_ACCOUNT_SCREEN@ERROR@PRIVACY_NOT_ACCEPTED"
 msgstr "Please read and accept the Privacy Policy"
 
 msgid "INTERFACE@CREATE_ACCOUNT_SCREEN@EULA"
-msgstr "End-user license agreement"
+msgstr "Ліцензійна угода кінцевого користувача"
 
 msgid "INTERFACE@CREATE_ACCOUNT_SCREEN@EULA_READ"
-msgstr "I have read and accept the End-user license agreement"
+msgstr "Я прочитав і приймаю ліцензійну угоду кінцевого користувача"
 
 msgid "INTERFACE@CREATE_ACCOUNT_SCREEN@NEWSLETTER"
 msgstr ""
-"I would like to receive news and offers from Age of Wonders and Paradox "
+"Я хочу отримувати новини та пропозиції від Age of Wonders і Paradox "
 "Interactive"
 
 msgid "INTERFACE@CREATE_ACCOUNT_SCREEN@PRIVACY_READ"
-msgstr "I have read and understood the Privacy Policy"
+msgstr "Я прочитав і зрозумів Політику конфіденційності"
 
 msgid "INTERFACE@CREATE_ACCOUNT_SCREEN@SUBMIT"
-msgstr "Submit"
+msgstr "Надіслати"
 
 msgid "INTERFACE@CREATE_ACCOUNT_SCREEN@TERMS"
 msgstr "Terms of Use"
@@ -24999,7 +24999,7 @@ msgid "INTERFACE@DIPLOMACY@FORGED_ALLIANCE_WITH"
 msgstr "You forged an alliance"
 
 msgid "INTERFACE@DIPLOMACY@FREE_CITIES"
-msgstr "Free Cities"
+msgstr "Вільні міста"
 
 msgid "INTERFACE@DIPLOMACY@HOUSE"
 msgstr "[minorcity/] Free City"
@@ -26379,25 +26379,25 @@ msgid "INTERFACE@GENERIC@BEGINS_THEIR_TURN"
 msgstr "{STR_player} begins turn {INT_turn}"
 
 msgid "INTERFACE@GENERIC@CANCEL"
-msgstr "Cancel"
+msgstr "Скасувати"
 
 msgid "INTERFACE@GENERIC@CANCELED"
-msgstr "Canceled!"
+msgstr "Відмінено!"
 
 msgid "INTERFACE@GENERIC@CENTER"
 msgstr "Center"
 
 msgid "INTERFACE@GENERIC@COMPLETE"
-msgstr "Complete"
+msgstr "Завершено"
 
 msgid "INTERFACE@GENERIC@CONTINUE_CAMPAIGN"
-msgstr "Continue Story"
+msgstr "Продовжити історію"
 
 msgid "INTERFACE@GENERIC@COOLDOWN"
 msgstr "Cooldown: {INT_turns} [turn/]"
 
 msgid "INTERFACE@GENERIC@COST"
-msgstr "Cost"
+msgstr "Вартість"
 
 msgid "INTERFACE@GENERIC@DAMAGE_BY_DOT"
 msgstr "{STR_unitName} sustains {STR_damage} from {STR_effectName}."
@@ -26406,7 +26406,7 @@ msgid "INTERFACE@GENERIC@DECLINE"
 msgstr "Decline"
 
 msgid "INTERFACE@GENERIC@DELETE"
-msgstr "Delete"
+msgstr "Видалити"
 
 msgid "INTERFACE@GENERIC@DISPLACED"
 msgstr "Displaced"
@@ -26421,7 +26421,7 @@ msgid "INTERFACE@GENERIC@EQUIPPED"
 msgstr "Equipped"
 
 msgid "INTERFACE@GENERIC@EXIT_GAME"
-msgstr "Exit Game"
+msgstr "Вийти з гри"
 
 msgid "INTERFACE@GENERIC@FOR"
 msgstr "For"
@@ -26457,34 +26457,34 @@ msgstr ""
 "[allegiance/] strength to determine the duration of negotiations."
 
 msgid "INTERFACE@GENERIC@LEVEL"
-msgstr "Level: {INT_level}"
+msgstr "Рівень: {INT_level}"
 
 msgid "INTERFACE@GENERIC@LOADING"
-msgstr "Loading"
+msgstr "Завантаження"
 
 msgid "INTERFACE@GENERIC@MENU"
-msgstr "Menu"
+msgstr "Меню"
 
 msgid "INTERFACE@GENERIC@MISS"
-msgstr "Miss"
+msgstr "Промах"
 
 msgid "INTERFACE@GENERIC@NAME"
-msgstr "Name"
+msgstr "Ім'я"
 
 msgid "INTERFACE@GENERIC@OWNED_BY"
-msgstr "Owner: {STR_owner}"
+msgstr "Власник: {STR_owner}"
 
 msgid "INTERFACE@GENERIC@PROFILE"
-msgstr "Profile"
+msgstr "Профіль"
 
 msgid "INTERFACE@GENERIC@READY"
-msgstr "Ready"
+msgstr "Готовий"
 
 msgid "INTERFACE@GENERIC@REMOVED"
-msgstr "removed"
+msgstr "видалено"
 
 msgid "INTERFACE@GENERIC@RESULTS"
-msgstr "Results"
+msgstr "Результати"
 
 msgid "INTERFACE@GENERIC@RETREAT"
 msgstr "Retreat"
@@ -26596,31 +26596,31 @@ msgid "INTERFACE@HERO@UNAFFILIATED"
 msgstr "Unaffiliated"
 
 msgid "INTERFACE@HEROATTRIBUTE@EMPIRE"
-msgstr "Empire"
+msgstr "Імперія"
 
 msgid "INTERFACE@HEROATTRIBUTE@LEADERORIGIN"
 msgstr "Ruler Unit"
 
 msgid "INTERFACE@HEROATTRIBUTE@TOMEPOINTS"
-msgstr "Tome Points"
+msgstr "Очки фоліанта"
 
 msgid "INTERFACE@HEROITEMS@DISABLED_HEROSKILL"
-msgstr "Disabled because of Hero skill:"
+msgstr "Вимкнено через навички героя:"
 
 msgid "INTERFACE@HEROITEMS@DISABLED_LORDTYPE"
-msgstr "Disabled because of Lord type:"
+msgstr "Недоступно через тип Лорда:"
 
 msgid "INTERFACE@HEROITEMS@DISABLED_OTHERSLOT"
-msgstr "Disabled because of equipped item:"
+msgstr "Вимкнено через оснащений предмет:"
 
 msgid "INTERFACE@HEROITEMS@DISABLES_SLOTS"
-msgstr "Disables slots:"
+msgstr "Блокує Слот:"
 
 msgid "INTERFACE@HEROITEMS@SLOT_EMPTY"
-msgstr "Slot is empty"
+msgstr "Слот порожній"
 
 msgid "INTERFACE@HEROITEMS@STORE"
-msgstr "Storage"
+msgstr "Склад"
 
 msgid "INTERFACE@HERO_CRYPT_EVENT@NOTIFY_LOG"
 msgstr "Remains of {Hero.Name} have been Collected"
@@ -26737,16 +26737,16 @@ msgid "INTERFACE@HUD_GENERAL_INFO@RESISTANCE_DESCRIPTION"
 msgstr "Resistance reduces all non-physical damage."
 
 msgid "INTERFACE@HUD_MAPSETTINGS@LOCATIONS"
-msgstr "Locations"
+msgstr "Об'єкти"
 
 msgid "INTERFACE@HUD_OVERVIEWPANEL@LEVEL"
-msgstr "Level"
+msgstr "Рівень"
 
 msgid "INTERFACE@HUD_OVERVIEW_MAIN@AMY_POPUP"
-msgstr "Armies"
+msgstr "Армії"
 
 msgid "INTERFACE@HUD_OVERVIEW_MAIN@RESOURCES_POPUP"
-msgstr "Resource"
+msgstr "Ресурс"
 
 msgid "INTERFACE@HUD_OVERVIEW_MAIN@RESOURCES_POPUP_DESCRIPTION"
 msgstr ""
@@ -26899,7 +26899,7 @@ msgid "INTERFACE@INVENTORY_SLOT@MOUNT"
 msgstr "Mount"
 
 msgid "INTERFACE@INVENTORY_SLOT@NONE"
-msgstr "None"
+msgstr "Жодного"
 
 msgid "INTERFACE@INVENTORY_SLOT@PRIMARY"
 msgstr "Primary"
@@ -27838,10 +27838,10 @@ msgid "INTERFACE@LEADER_REBORN_EVENT@NOTIFY_LOG_CITY"
 msgstr "{Side} has returned to {City}"
 
 msgid "INTERFACE@LEGAL@EULA"
-msgstr "End-User License Agreement"
+msgstr "Ліцензійна угода кінцевого користувача"
 
 msgid "INTERFACE@LEGAL@PRIVACY_POLICY"
-msgstr "Privacy Policy"
+msgstr "Політика конфіденційності"
 
 msgid "INTERFACE@LINK_SCREEN@CONTENT_GAMECORE"
 msgstr ""
@@ -27985,22 +27985,22 @@ msgid "INTERFACE@LOG@BASIC_MESSAGE"
 msgstr "{unitName} affected by {effectName}"
 
 msgid "INTERFACE@LOGIN_SCREEN@CREATE_NEW_ACCOUNT"
-msgstr "Create new Paradox account"
+msgstr "Створіть новий обліковий запис Paradox"
 
 msgid "INTERFACE@LOGIN_SCREEN@CUE_EMAIL_ADDRESS"
-msgstr "Email Address"
+msgstr "Адреса електронної пошти"
 
 msgid "INTERFACE@LOGIN_SCREEN@INVALID_CREDENTIALS"
-msgstr "Login failed. Invalid credentials"
+msgstr "Помилка логіну. Недійсні облікові дані"
 
 msgid "INTERFACE@LOGIN_SCREEN@LOGIN"
-msgstr "Login"
+msgstr "Логін"
 
 msgid "INTERFACE@LOGIN_SCREEN@OFFLINE"
-msgstr "Login failed. Failed to connect"
+msgstr "Помилка входу. Не вдалося підключитися"
 
 msgid "INTERFACE@LOGIN_SCREEN@REMEMBER_ME"
-msgstr "Remember me"
+msgstr "Пам'ятай мене"
 
 msgid "INTERFACE@LORD_LOAD_FAILURE@DIALOG_HEADER"
 msgstr "Loading Rulers Failed!"
@@ -28845,7 +28845,7 @@ msgid "INTERFACE@LORE_CONCEPT@WIZARD_KING@HYPERLINK"
 msgstr "[hyperlink,GLOBAL.WizardKingLoreConcept]Wizard King[/hyperlink]"
 
 msgid "INTERFACE@LORE_CONCEPT@WIZARD_KING@TITLE"
-msgstr "Wizard King"
+msgstr "Король-чарівник"
 
 msgid "INTERFACE@LORE_CONCEPT@WORLDS_WITHIN@DESCRIPTION"
 msgstr ""
@@ -28982,7 +28982,7 @@ msgid "INTERFACE@MAP_SETUP@ALLIED_VICTORY"
 msgstr "Allied Victory"
 
 msgid "INTERFACE@MAP_SETUP@CLASSIC_TURNS"
-msgstr "Classic Turns"
+msgstr "Класичні ходи"
 
 msgid "INTERFACE@MAP_SETUP@CLASSIC_TURNS_DESCRIPTION"
 msgstr ""
@@ -29011,10 +29011,10 @@ msgid "INTERFACE@MAP_SETUP@LONG"
 msgstr "Long"
 
 msgid "INTERFACE@MAP_SETUP@MAX_HERO_COUNT"
-msgstr "Max Hero Count"
+msgstr "Максимальна кількість героїв"
 
 msgid "INTERFACE@MAP_SETUP@MAX_HERO_LEVEL"
-msgstr "Max Hero Level"
+msgstr "Максимальний рівень героя"
 
 msgid "INTERFACE@MAP_SETUP@MEDIUM"
 msgstr "Medium"
@@ -29038,7 +29038,7 @@ msgid "INTERFACE@MAP_SETUP@SHORT"
 msgstr "Short"
 
 msgid "INTERFACE@MAP_SETUP@SIMULTANEOUS_TURNS"
-msgstr "Simultaneous Turns"
+msgstr "Одночасні ходи"
 
 msgid "INTERFACE@MAP_SETUP@SIMULTANEOUS_TURNS_DESCRIPTION"
 msgstr ""
@@ -29056,10 +29056,10 @@ msgid "INTERFACE@MAP_SETUP@TACTICAL_TURN_TIMER"
 msgstr "Tactical Idle Timer"
 
 msgid "INTERFACE@MAP_SETUP@TEAMS"
-msgstr "Teams"
+msgstr "Команди"
 
 msgid "INTERFACE@MAP_SETUP@TURN_SYSTEM"
-msgstr "Turn System"
+msgstr "Система ходів"
 
 msgid "INTERFACE@MAP_SETUP@TURN_TIMER"
 msgstr "Turn Timer"
@@ -29068,13 +29068,13 @@ msgid "INTERFACE@MAP_SETUP@TURN_TIMER_LONG"
 msgstr "Turn Timer (Long)"
 
 msgid "INTERFACE@MAP_SETUP@TURN_TIMER_LONG_HALFDAY"
-msgstr "16 hours"
+msgstr "16 години"
 
 msgid "INTERFACE@MAP_SETUP@TURN_TIMER_LONG_HALFWEEK"
-msgstr "3 days"
+msgstr "3 днів"
 
 msgid "INTERFACE@MAP_SETUP@TURN_TIMER_LONG_WEEK"
-msgstr "1 week"
+msgstr "1 тиждень"
 
 msgid "INTERFACE@MAP_SETUP@USE_COMBAT_RESTART"
 msgstr "Enable Combat Restart"
@@ -29159,8 +29159,8 @@ msgstr "Set the frequency of the Desolate clime relative to the other climes"
 
 msgid "INTERFACE@MAP_SETUP_TOOLTIP@DIFFICULTY"
 msgstr ""
-"Select the difficulty of the game. This determines the hostility of the "
-"world and AI strength."
+"Виберіть складність гри. Це визначає "
+"ворожість світу і силу ШІ."
 
 msgid "INTERFACE@MAP_SETUP_TOOLTIP@DRY"
 msgstr "Set the frequency of the Tropical clime relative to the other climes"
@@ -29285,12 +29285,12 @@ msgid "INTERFACE@MAP_SETUP_TOOLTIP@OCEAN"
 msgstr "Set the frequency of the Ocean clime relative to the other climes"
 
 msgid "INTERFACE@MAP_SETUP_TOOLTIP@PLAYERS"
-msgstr "Select the number of players for this game."
+msgstr "Виберіть кількість гравців для цієї гри."
 
 msgid "INTERFACE@MAP_SETUP_TOOLTIP@PLAYER_DISTANCE"
 msgstr ""
-"The desired distance between each player's capital. The further the distance "
-"and the higher the number of players, the bigger the map size will be."
+"Бажана відстань між столицею кожного гравця. Чим далі відстань і більше гравців,"
+"тим більшим буде розмір карти."
 
 msgid "INTERFACE@MAP_SETUP_TOOLTIP@RESTART_COMBAT_AI_ONLY"
 msgstr "Allowed only against AI"
@@ -29372,7 +29372,7 @@ msgstr "Set the frequency of the Temperate clime relative to the other climes"
 
 msgid "INTERFACE@MAP_SETUP_TOOLTIP@TURN_SYSTEM"
 msgstr ""
-"Select the Turn System used for this Game:[bulletlist][bullet/]<<m:{GLOBAL."
+"Виберіть систему ходів, яка використовується для цієї гри:[bulletlist][bullet/]<<m:{GLOBAL."
 "ClassicTurnConcept.Hyperlink}>>: Everyone plays their turn in order, one "
 "after the other.[bullet/]<<m:{GLOBAL.SimultaneousTurnConcept.Hyperlink}>>: "
 "Everyone plays their turn at the same time.[/bulletList]"
@@ -29944,12 +29944,12 @@ msgstr ""
 "{GLOBAL.SpellConcept.Hyperlink}>> during {GLOBAL.CombatConcept.Hyperlink}."
 
 msgid "INTERFACE@OPERATIONS@TACTICAL_POINTS"
-msgstr "[optactical/] Combat Casting Point"
+msgstr "[optactical/] Очки бойових заклинань"
 
 msgid "INTERFACE@OPERATIONS@TACTICAL_POINTS_HYPERLINK"
 msgstr ""
-"[optactical/] [hyperlink,GLOBAL.CombatCastingPointConcept] Combat Casting "
-"Point[/hyperlink]"
+"[optactical/] [hyperlink,GLOBAL.CombatCastingPointConcept] Очки бойових "
+"заклинань[/hyperlink]"
 
 msgid "INTERFACE@OPERATIONS@TARGET"
 msgstr "Target:"
@@ -30122,28 +30122,28 @@ msgid "INTERFACE@OPTIONS@AA_MSAA_8X"
 msgstr "MSAA (8x)"
 
 msgid "INTERFACE@OPTIONS@AA_OFF"
-msgstr "None"
+msgstr "Жодного"
 
 msgid "INTERFACE@OPTIONS@ADVICE_TYPE_ADVICE"
-msgstr "Advice"
+msgstr "Порада"
 
 msgid "INTERFACE@OPTIONS@ADVICE_TYPE_BEGINNER_ADVICE"
-msgstr "Advice Only"
+msgstr "Лише поради"
 
 msgid "INTERFACE@OPTIONS@ADVICE_TYPE_OFF"
-msgstr "Off"
+msgstr "Вимк."
 
 msgid "INTERFACE@OPTIONS@ADVICE_TYPE_TUTORIAL"
 msgstr "Full Tutorial and Advice"
 
 msgid "INTERFACE@OPTIONS@COMBAT_ACTION_CAMERA_ENEMY_ONLY"
-msgstr "Enemy Only"
+msgstr "Тільки вороги"
 
 msgid "INTERFACE@OPTIONS@COMBAT_ACTION_CAMERA_OFF"
-msgstr "Off"
+msgstr "Вимк."
 
 msgid "INTERFACE@OPTIONS@COMBAT_ACTION_CAMERA_ON"
-msgstr "On"
+msgstr "Увімк."
 
 msgid "INTERFACE@OPTIONS@CONTROLS_ERROR_CANT_CLEAR_DESCRIPTION"
 msgstr ""
@@ -30166,22 +30166,22 @@ msgid "INTERFACE@OPTIONS@CONTROLS_ERROR_TITLE"
 msgstr "Binding Already in Use"
 
 msgid "INTERFACE@OPTIONS@CROSSPLAY_FULL"
-msgstr "Full"
+msgstr "Повний"
 
 msgid "INTERFACE@OPTIONS@CROSSPLAY_LIMITED"
-msgstr "Xbox network only"
+msgstr "Тільки в мережі Xbox"
 
 msgid "INTERFACE@OPTIONS@CROSSPLAY_OFF"
-msgstr "Off"
+msgstr "Вимк."
 
 msgid "INTERFACE@OPTIONS@CROSSPLAY_UNSPECIFIED"
-msgstr "Unspecified"
+msgstr "Не вказано"
 
 msgid "INTERFACE@OPTIONS@DISPLAY_MODE_BORDERLESS"
-msgstr "Borderless"
+msgstr "Без рамок"
 
 msgid "INTERFACE@OPTIONS@DISPLAY_MODE_WINDOWED"
-msgstr "Windowed"
+msgstr "У вікні"
 
 msgid "INTERFACE@OPTIONS@ERROR_CANT_BIND_DESCRIPTION"
 msgstr "The action \"{STR_Command}\" cannot be changed."
@@ -30195,13 +30195,13 @@ msgstr ""
 "reserved and cannot be used."
 
 msgid "INTERFACE@OPTIONS@GAMEPLAY"
-msgstr "Main"
+msgstr "Головна"
 
 msgid "INTERFACE@OPTIONS@INTERFACE_SCALE_LARGE"
-msgstr "Large"
+msgstr "Великий"
 
 msgid "INTERFACE@OPTIONS@INTERFACE_SCALE_LARGEST"
-msgstr "Largest"
+msgstr "Найбільший"
 
 msgid "INTERFACE@OPTIONS@INTERFACE_SCALE_NORMAL"
 msgstr "Normal"
@@ -30213,22 +30213,22 @@ msgid "INTERFACE@OPTIONS@INTERFACE_SCALE_SMALLEST"
 msgstr "Smallest"
 
 msgid "INTERFACE@OPTIONS@INTERFACE_VOLUME"
-msgstr "Interface"
+msgstr "Інтерфейс"
 
 msgid "INTERFACE@OPTIONS@QUALITY_CUSTOM"
-msgstr "Custom"
+msgstr "Користувальницькі"
 
 msgid "INTERFACE@OPTIONS@QUALITY_HIGH"
-msgstr "High"
+msgstr "Висок."
 
 msgid "INTERFACE@OPTIONS@QUALITY_LOW"
-msgstr "Low"
+msgstr "Низьк."
 
 msgid "INTERFACE@OPTIONS@QUALITY_MEDIUM"
-msgstr "Medium"
+msgstr "Середн."
 
 msgid "INTERFACE@OPTIONS@QUALITY_OFF"
-msgstr "Off"
+msgstr "Вимк."
 
 msgid "INTERFACE@OPTIONS@QUALITY_PERFORMANCE"
 msgstr "Favor Performance"
@@ -30255,7 +30255,7 @@ msgid "INTERFACE@OPTIONS@VSYNC_HALF"
 msgstr "Half"
 
 msgid "INTERFACE@OPTIONS@VSYNC_OFF"
-msgstr "Off"
+msgstr "Вимк."
 
 msgid "INTERFACE@OPTIONS@VSYNC_QUARTER"
 msgstr "Quarter"
@@ -30573,22 +30573,22 @@ msgid "INTERFACE@QUICK_SETTINGS@BRUTAL_TOOLTIP"
 msgstr "I want to face overwhelming odds and earn my triumph!"
 
 msgid "INTERFACE@QUICK_SETTINGS@EASY"
-msgstr "Easy"
+msgstr "Легко"
 
 msgid "INTERFACE@QUICK_SETTINGS@EASY_TOOLTIP"
-msgstr "I want a forgiving experience with easy to overcome challenges."
+msgstr "Я хочу не надто складну гру проти опонентів, які не становлять серйозної загрози."
 
 msgid "INTERFACE@QUICK_SETTINGS@HARD"
-msgstr "Hard"
+msgstr "Важко"
 
 msgid "INTERFACE@QUICK_SETTINGS@HARD_TOOLTIP"
-msgstr "I am a seasoned veteran of strategy games."
+msgstr "Я досвідчений ветеран стратегічних ігор."
 
 msgid "INTERFACE@QUICK_SETTINGS@NORMAL"
-msgstr "Normal"
+msgstr "Нормальний"
 
 msgid "INTERFACE@QUICK_SETTINGS@NORMAL_TOOLTIP"
-msgstr "I know strategy games, give it to me straight."
+msgstr "Я розуміюся на стратегіях, нехай все буде стандартно."
 
 msgid "INTERFACE@QUICK_SETTINGS@RELAXED"
 msgstr "Relaxed"
@@ -30600,7 +30600,7 @@ msgid "INTERFACE@RACE@COUNCILTRAIT"
 msgstr "Destiny Trait"
 
 msgid "INTERFACE@RACE@CULTURE"
-msgstr "Culture"
+msgstr "Культура"
 
 msgid "INTERFACE@RACE@ECONOMY_RESOURCES"
 msgstr "Additional resources"
@@ -30609,25 +30609,25 @@ msgid "INTERFACE@RACE@ECONOMY_UPGRADES"
 msgstr "Capital city starts with"
 
 msgid "INTERFACE@RACE@EFFECT_TITLE"
-msgstr "Effects"
+msgstr "Ефекти"
 
 msgid "INTERFACE@RACE@FORM"
-msgstr "Physical Form"
+msgstr "Фізична форма"
 
 msgid "INTERFACE@RACE@MENTAL_TRAIT"
-msgstr "Mind Trait"
+msgstr "Особливість розуму"
 
 msgid "INTERFACE@RACE@PHYSICAL_TRAIT"
-msgstr "Body Trait"
+msgstr "Особливість тіла"
 
 msgid "INTERFACE@RACE@SOCIETYTRAIT"
-msgstr "Society Trait"
+msgstr "Суспільна риса"
 
 msgid "INTERFACE@RACE@START_BONUS_TITLE"
-msgstr "Starting Bonus"
+msgstr "Стартовий бонус"
 
 msgid "INTERFACE@RACE@TRAITS"
-msgstr "Society Traits"
+msgstr "Суспільні риси"
 
 msgid "INTERFACE@RACEKEEPER_GAINED_EVENT@NOTIFY_LOG"
 msgstr "You became the Race Keeper of the {Race.Name}"
@@ -31328,7 +31328,7 @@ msgid "INTERFACE@ROUTED_UNIT_RETURNS_TO_CITY@DESCRIPTION"
 msgstr "Routed units have returned to {City.Name}."
 
 msgid "INTERFACE@SAVE@DELETE_ARE_YOU_SURE"
-msgstr "Are you sure you want to delete this save?"
+msgstr "Ви впевнені, що хочете видалити це збереження?"
 
 msgid "INTERFACE@SAVE@DELETE_ARE_YOU_SURE_SESSION"
 msgstr ""
@@ -31336,31 +31336,31 @@ msgstr ""
 "will be lost."
 
 msgid "INTERFACE@SAVE@DELETE_ARE_YOU_SURE_TITLE"
-msgstr "Confirmation"
+msgstr "Підтвердження"
 
 msgid "INTERFACE@SAVE@DELETE_SESSION"
-msgstr "Delete Session"
+msgstr "Видалити сеанс"
 
 msgid "INTERFACE@SAVE@DIALOG_HEADER"
-msgstr "Save Game"
+msgstr "Зберегти гру"
 
 msgid "INTERFACE@SAVE@EDIT_SESSION_HEADER"
-msgstr "Edit Session"
+msgstr "Редагувати сеанс"
 
 msgid "INTERFACE@SAVE@NEW_SAVE"
-msgstr "<NEW SAVE>"
+msgstr "<НОВЕ ЗБЕРЕЖЕННЯ>"
 
 msgid "INTERFACE@SAVE@OVERWRITE"
-msgstr "Overwrite"
+msgstr "Перезаписати"
 
 msgid "INTERFACE@SAVE@SAVE"
-msgstr "Save"
+msgstr "Зберегти"
 
 msgid "INTERFACE@SAVE@TOO_SHORT"
-msgstr "Too short!"
+msgstr "Назва занадто коротка!"
 
 msgid "INTERFACE@SAVE_FAILURE@DIALOG_HEADER"
-msgstr "Failed to Save"
+msgstr "Не вдалося зберегти"
 
 msgid "INTERFACE@SAVE_FAILURE@DIALOG_MESSAGE"
 msgstr ""
@@ -31655,7 +31655,7 @@ msgstr ""
 "multi-turn movement of armies on the world map."
 
 msgid "INTERFACE@SETTINGS_GAMEPLAY@AUTOSAVE"
-msgstr "Auto Save"
+msgstr "Автоматичне збереження"
 
 msgid "INTERFACE@SETTINGS_GAMEPLAY@AUTOSAVE_TOOLTIP"
 msgstr ""
@@ -31714,7 +31714,7 @@ msgid "INTERFACE@SETTINGS_GAMEPLAY@INVERT_Y_AXIS_TOOLTIP"
 msgstr "When enabled, the Camera will move up when the given input is down."
 
 msgid "INTERFACE@SETTINGS_GAMEPLAY@LANGUAGE"
-msgstr "Language"
+msgstr "Мова"
 
 msgid "INTERFACE@SETTINGS_GAMEPLAY@LANGUAGE_TOOLTIP"
 msgstr ""
@@ -31939,7 +31939,7 @@ msgid "INTERFACE@SETTINGS_HEADER@CONTROLS"
 msgstr "Controls"
 
 msgid "INTERFACE@SETTINGS_HEADER@CVAA"
-msgstr "Chat"
+msgstr "Чат"
 
 msgid "INTERFACE@SETTINGS_HEADER@GENERAL"
 msgstr "General"
@@ -32087,14 +32087,14 @@ msgstr ""
 "Full: Players on all platforms can join multiplayer games."
 
 msgid "INTERFACE@SETTINGS_ONLINE@EMAIL_NOTIFICATIONS"
-msgstr "Email Notifications"
+msgstr "Повідомлення ел. поштою"
 
 msgid "INTERFACE@SETTINGS_ONLINE@EMAIL_NOTIFICATIONS_TOOLTIP"
 msgstr ""
 "When enabled, receive emails when it is your turn in a multiplayer game."
 
 msgid "INTERFACE@SETTINGS_ONLINE@LOGOUT"
-msgstr "Log Out"
+msgstr "Вийти"
 
 msgid "INTERFACE@SETTINGS_ONLINE@LOGOUT_TOOLTIP"
 msgstr ""
@@ -32742,16 +32742,16 @@ msgid "INTERFACE@TEXT@ADJUST_APPEARANCE"
 msgstr "Adjust Appearance"
 
 msgid "INTERFACE@TEXT@ADVANCED_SETTINGS"
-msgstr "Advanced Settings"
+msgstr "Розширені параметри"
 
 msgid "INTERFACE@TEXT@ADVANCED_SETUP"
-msgstr "Advanced Setup"
+msgstr "Розширені параметри"
 
 msgid "INTERFACE@TEXT@ADVICE_TITLE"
-msgstr "Advice"
+msgstr "Порада"
 
 msgid "INTERFACE@TEXT@ADVISOR"
-msgstr "Advisor"
+msgstr "Радник"
 
 msgid "INTERFACE@TEXT@ADVISOR_DESCRIPTION"
 msgstr ""
@@ -32925,7 +32925,7 @@ msgid "INTERFACE@TEXT@AUTOMOVE_WARNING_HEADER"
 msgstr "End Turn?"
 
 msgid "INTERFACE@TEXT@AUTOSAVE_START"
-msgstr "Saving..."
+msgstr "Збереження..."
 
 msgid "INTERFACE@TEXT@AUTOSAVE_START_PS4"
 msgstr ""
@@ -33098,10 +33098,10 @@ msgid "INTERFACE@TEXT@CATCHMENTPREVIEW_TOOLTIP"
 msgstr "View which armies would aid this army in battle if it was attacked"
 
 msgid "INTERFACE@TEXT@CHANGE_MENTAL_TRAIT"
-msgstr "Change mental trait"
+msgstr "Змінити психічну рису"
 
 msgid "INTERFACE@TEXT@CHANGE_PHYSICAL_TRAIT"
-msgstr "Change body trait"
+msgstr "Змінити рису тіла"
 
 msgid "INTERFACE@TEXT@CHANGE_TRAIT"
 msgstr "Change physical trait"
@@ -33416,7 +33416,7 @@ msgid "INTERFACE@TEXT@CITY_WALL_STRUCTURE_HYPERLINK"
 msgstr "[hyperlink,GLOBAL.CityWallStructureConcept]Wall Structure[/hyperlink]"
 
 msgid "INTERFACE@TEXT@CLOSE"
-msgstr "Close"
+msgstr "Закрити"
 
 msgid "INTERFACE@TEXT@COLLECTION_EFFECT"
 msgstr "Collection Effect"
@@ -33589,13 +33589,13 @@ msgid "INTERFACE@TEXT@CONTACT_INFO_NAME"
 msgstr "Contact Information of {STR_playerName}"
 
 msgid "INTERFACE@TEXT@CONTINUE"
-msgstr "Continue"
+msgstr "Продовжити"
 
 msgid "INTERFACE@TEXT@CONTINUE_ANYWAY"
 msgstr "Do you want to continue anyway?"
 
 msgid "INTERFACE@TEXT@CONTROLLER"
-msgstr "Controller"
+msgstr "Контролер"
 
 msgid "INTERFACE@TEXT@CONVERTED"
 msgstr "Converted"
@@ -33604,37 +33604,37 @@ msgid "INTERFACE@TEXT@COOLDOWNS_RESET"
 msgstr "Cooldowns reset"
 
 msgid "INTERFACE@TEXT@COOLDOWN_TIME_REMAINING"
-msgstr "Cooldown time remaining:"
+msgstr "Час відновлення, що залишився:"
 
 msgid "INTERFACE@TEXT@CORE"
 msgstr "Core"
 
 msgid "INTERFACE@TEXT@COST"
-msgstr "Cost: "
+msgstr "Вартість: "
 
 msgid "INTERFACE@TEXT@CREATE_BUILDING"
-msgstr "Build Structure"
+msgstr "Будувати структуру"
 
 msgid "INTERFACE@TEXT@CREATE_FACTION"
-msgstr "Create Faction"
+msgstr "Створити фракцію"
 
 msgid "INTERFACE@TEXT@CREATE_FACTION_DESCRIPTION"
-msgstr "Create new race and Ruler"
+msgstr "Створіть нову расу та правителя"
 
 msgid "INTERFACE@TEXT@CREATE_UNIT"
-msgstr "Recruit Unit"
+msgstr "Найняти воїна"
 
 msgid "INTERFACE@TEXT@CREATE_WORLD"
-msgstr "Create Realm"
+msgstr "Створити світ"
 
 msgid "INTERFACE@TEXT@CREATE_WORLD_DESCRIPTION"
-msgstr "A realm of your own creation"
+msgstr "Створіть свій власний світ"
 
 msgid "INTERFACE@TEXT@CRITICAL_CHANCE"
-msgstr "Critical Chance:"
+msgstr "Критичний шанс:"
 
 msgid "INTERFACE@TEXT@CRYPT"
-msgstr "Crypt"
+msgstr "Крипта"
 
 msgid "INTERFACE@TEXT@CRYPT_DESCRIPTION"
 msgstr ""
@@ -33647,16 +33647,16 @@ msgid "INTERFACE@TEXT@CRYPT_HYPERLINK"
 msgstr "[hyperlink,GLOBAL.CryptConcept]Crypt[/hyperlink]"
 
 msgid "INTERFACE@TEXT@CURRENT_INCOME"
-msgstr "Current Income:"
+msgstr "Поточний дохід:"
 
 msgid "INTERFACE@TEXT@CURRENT_LEVEL"
-msgstr "Current Level:"
+msgstr "Поточний рівень:"
 
 msgid "INTERFACE@TEXT@CUSTOM"
-msgstr "Custom"
+msgstr "Користувальницькі"
 
 msgid "INTERFACE@TEXT@CUSTOMIZE_REALM"
-msgstr "Customize Realm"
+msgstr "Налаштувати світ"
 
 msgid "INTERFACE@TEXT@DAMAGE_DEBUFF_SPELL"
 msgstr "[casttactical/] Damage/Debuff Spell"
@@ -33769,13 +33769,13 @@ msgid "INTERFACE@TEXT@DEVOURING_VOID_HYPERLINK"
 msgstr "[hyperlink,GLOBAL.DevouringVoidConcept]Devouring Void[/hyperlink]"
 
 msgid "INTERFACE@TEXT@DIFFICULTY"
-msgstr "Difficulty"
+msgstr "Складність"
 
 msgid "INTERFACE@TEXT@DIPLOMACY"
-msgstr "Diplomacy"
+msgstr "Дипломатія"
 
 msgid "INTERFACE@TEXT@DIPLOMATIC_OVERVIEW"
-msgstr "Diplomatic Overview"
+msgstr "Огляд дипломатії"
 
 msgid "INTERFACE@TEXT@DIPLOMATIC_RELATIONS_OVERVIEW_NOT_MET_TITLE"
 msgstr "Players have not met"
@@ -33842,7 +33842,7 @@ msgstr ""
 "[hyperlink,GLOBAL.ElectricallyChargedConcept]Electrically Charged[/hyperlink]"
 
 msgid "INTERFACE@TEXT@EMPIRE"
-msgstr "Empire"
+msgstr "Імперія"
 
 msgid "INTERFACE@TEXT@EMPIRE_DESCRIPTION"
 msgstr ""
@@ -33969,16 +33969,16 @@ msgstr ""
 "with this hero's House."
 
 msgid "INTERFACE@TEXT@EXECUTING_AUTO_MOVE"
-msgstr "Executing Auto Move..."
+msgstr "Виконання автоматичного переміщення..."
 
 msgid "INTERFACE@TEXT@EXIT_CONFIRMATION"
-msgstr "Are you sure you wish to leave this realm?"
+msgstr "Ви впевнені, що хочете залишити цей світ?"
 
 msgid "INTERFACE@TEXT@EXIT_TO_MENU"
-msgstr "Exit to Menu"
+msgstr "Вихід до меню"
 
 msgid "INTERFACE@TEXT@FACTIONS"
-msgstr "Factions"
+msgstr "Фракції"
 
 msgid "INTERFACE@TEXT@FAILS_CHECK"
 msgstr "fails check."
@@ -34615,7 +34615,7 @@ msgid "INTERFACE@TEXT@MAP_LAYER_SWITCH"
 msgstr "Map Layer Switch"
 
 msgid "INTERFACE@TEXT@MAP_LAYER_SWITCH_DISABLED"
-msgstr "Switch between world map layers"
+msgstr "Перемикання між шарами мапи світу"
 
 msgid "INTERFACE@TEXT@MARK_ALL_AS_SEEN"
 msgstr "Mark all as seen"
@@ -34812,13 +34812,13 @@ msgid "INTERFACE@TEXT@MYSTIC@HYPERLINK"
 msgstr "[hyperlink,GLOBAL.MysticConcept]Mystic[/hyperlink]"
 
 msgid "INTERFACE@TEXT@MY_PANTHEON"
-msgstr "My Pantheon"
+msgstr "Мій Пантеон"
 
 msgid "INTERFACE@TEXT@MY_TOMES"
 msgstr "My Tomes"
 
 msgid "INTERFACE@TEXT@NAME"
-msgstr "Name"
+msgstr "Ім'я"
 
 msgid "INTERFACE@TEXT@NAME_TOO_FEW_CHARS"
 msgstr "The name must contain at least 1 character."
@@ -34877,7 +34877,7 @@ msgid "INTERFACE@TEXT@NEW_TURN_MESSAGE"
 msgstr "DAY {STR_turn} DAWNS"
 
 msgid "INTERFACE@TEXT@NEXT"
-msgstr "Next"
+msgstr "Далі"
 
 msgid "INTERFACE@TEXT@NONE"
 msgstr "None"
@@ -35056,7 +35056,7 @@ msgstr ""
 "be undone."
 
 msgid "INTERFACE@TEXT@PANTHEON_EDIT_NAME"
-msgstr "Edit Pantheon name"
+msgstr "Змінити назву Пантеону"
 
 msgid "INTERFACE@TEXT@PANTHEON_ENABLE_DISABLE_TOOLTIP"
 msgstr ""
@@ -35084,10 +35084,10 @@ msgid "INTERFACE@TEXT@PANTHEON_INTRO_HEADER"
 msgstr "Welcome to Magehaven"
 
 msgid "INTERFACE@TEXT@PANTHEON_LEADERS_HEADER"
-msgstr "Pantheon Leaders"
+msgstr "Лідери Пантеону"
 
 msgid "INTERFACE@TEXT@PANTHEON_LEADERS_NONE"
-msgstr "No ascended leaders"
+msgstr "Немає піднесених лідерів"
 
 msgid "INTERFACE@TEXT@PANTHEON_NAME"
 msgstr "Pantheon Name"
@@ -35123,7 +35123,7 @@ msgid "INTERFACE@TEXT@PANTHEON_PROGRESS"
 msgstr "Pantheon Progress"
 
 msgid "INTERFACE@TEXT@PANTHEON_PROGRESSION_TAB"
-msgstr "Progression"
+msgstr "Прогрес"
 
 msgid "INTERFACE@TEXT@PANTHEON_XP_GAINED"
 msgstr "Pantheon XP Gained"
@@ -35187,7 +35187,7 @@ msgid "INTERFACE@TEXT@PILLAGING_REWARD_TEXT"
 msgstr "Resources gained from razing:"
 
 msgid "INTERFACE@TEXT@PLAYERS"
-msgstr "Players"
+msgstr "Гравці"
 
 msgid "INTERFACE@TEXT@PLAYERS_HYPERLINK"
 msgstr "[hyperlink,GLOBAL.PlayerConcept]Player[/hyperlink]"
@@ -35198,7 +35198,7 @@ msgstr ""
 "its {GLOBAL.LeaderConcept.Hyperlink}."
 
 msgid "INTERFACE@TEXT@PLAYER_DISTANCE"
-msgstr "Player Distance"
+msgstr "Відстань між гравцями"
 
 msgid "INTERFACE@TEXT@PLAYER_NAME_SET_DESCRIPTION"
 msgstr ""
@@ -35349,13 +35349,13 @@ msgid "INTERFACE@TEXT@QUEST_VC_NAME"
 msgstr "Objectives"
 
 msgid "INTERFACE@TEXT@RACE"
-msgstr "Race"
+msgstr "Народ"
 
 msgid "INTERFACE@TEXT@RACES"
-msgstr "RACES"
+msgstr "НАРОДИ"
 
 msgid "INTERFACE@TEXT@RACE_NAME"
-msgstr "Race Name"
+msgstr "Назва народу"
 
 msgid "INTERFACE@TEXT@RADIAL_MENU"
 msgstr "Radial Menu"
@@ -35395,7 +35395,7 @@ msgid "INTERFACE@TEXT@REALMTYPE@TEMPLATEREALM"
 msgstr "Tier <<R:{Tier}>> Realm"
 
 msgid "INTERFACE@TEXT@REALMTYPE@TUTORIALREALM"
-msgstr "Beginner Scenario"
+msgstr "Сценарій для початківців"
 
 msgid "INTERFACE@TEXT@RECEIVED"
 msgstr "{Unit.Name} has received {Item.Name}"
@@ -35534,7 +35534,7 @@ msgid "INTERFACE@TEXT@RESTART_COMBAT"
 msgstr "Restart Combat"
 
 msgid "INTERFACE@TEXT@RESUME_GAME"
-msgstr "Resume Game"
+msgstr "Відновити гру"
 
 msgid "INTERFACE@TEXT@RETALIATION"
 msgstr "Retaliation"
@@ -35597,7 +35597,7 @@ msgid "INTERFACE@TEXT@ROUTED_UNIT"
 msgstr "This unit has been routed, but will reappear in a nearby city shortly."
 
 msgid "INTERFACE@TEXT@RULERS"
-msgstr "RULERS"
+msgstr "Правителі"
 
 msgid "INTERFACE@TEXT@RULER_TRAIT"
 msgstr "Ruler Trait"
@@ -35630,7 +35630,7 @@ msgid "INTERFACE@TEXT@SAVEGAME_END_NAME"
 msgstr "{ScreenName} End"
 
 msgid "INTERFACE@TEXT@SAVE_COMPLETE"
-msgstr "Game Saved"
+msgstr "Гра збережена"
 
 msgid "INTERFACE@TEXT@SAVE_PROMPT_HEADER"
 msgstr "Unsaved Progress!"
@@ -35686,7 +35686,7 @@ msgid "INTERFACE@TEXT@SELECT_EVENT"
 msgstr "Select Event"
 
 msgid "INTERFACE@TEXT@SELECT_FACTION"
-msgstr "Select Faction"
+msgstr "Виберіть фракцію"
 
 msgid "INTERFACE@TEXT@SELECT_ITEM"
 msgstr "Select an item:"
@@ -35928,22 +35928,22 @@ msgid "INTERFACE@TEXT@STARTING_CONDITIONS_NORMAL_DESCRIPTION"
 msgstr "Start with normal starting resources and a standard initial army."
 
 msgid "INTERFACE@TEXT@STARTING_EQUIPMENT"
-msgstr "Starting Equipment"
+msgstr "Початкове спорядження"
 
 msgid "INTERFACE@TEXT@STARTING_MAGIC"
-msgstr "Starting Magic"
+msgstr "Початкова магія"
 
 msgid "INTERFACE@TEXT@STARTING_RESEARCH"
-msgstr "Starting Research"
+msgstr "Початок дослідження"
 
 msgid "INTERFACE@TEXT@STARTING_TRAITS"
-msgstr "Starting Traits"
+msgstr "Початкові риси"
 
 msgid "INTERFACE@TEXT@START_SIEGE"
-msgstr "Start Siege"
+msgstr "Почати облогу"
 
 msgid "INTERFACE@TEXT@STARVATION"
-msgstr "Starvation"
+msgstr "голод"
 
 msgid "INTERFACE@TEXT@STARVATION_DESCRIPTION"
 msgstr ""
@@ -35976,7 +35976,7 @@ msgid "INTERFACE@TEXT@STRATEGIC_MAP_HYPERLINK"
 msgstr "[hyperlink,GLOBAL.WorldMapConcept]World Map[/hyperlink]"
 
 msgid "INTERFACE@TEXT@STRATEGIC_OPERATIONS"
-msgstr "World Map Spell"
+msgstr "Заклинання карти світу"
 
 msgid "INTERFACE@TEXT@STRATEGIC_SUMMON_SPELL"
 msgstr "World Map Summon Spell"
@@ -36026,7 +36026,7 @@ msgstr ""
 "{GLOBAL.TurnConcept.Hyperlink}"
 
 msgid "INTERFACE@TEXT@SURRENDER"
-msgstr "Surrender"
+msgstr "капітуляція"
 
 msgid "INTERFACE@TEXT@SUSTAINED_CITY_SPELL"
 msgstr "[caststrategic/] Sustained City Spell"
@@ -36268,7 +36268,7 @@ msgid "INTERFACE@TEXT@TREATY_WITH"
 msgstr "Treaty with"
 
 msgid "INTERFACE@TEXT@TURN"
-msgstr "[turn/] Turn"
+msgstr "[turn/] Хід"
 
 msgid "INTERFACE@TEXT@TURNS"
 msgstr "Turn(s)"
@@ -36476,7 +36476,7 @@ msgid "INTERFACE@TEXT@VISION_RANGE_HYPERLINK"
 msgstr "[hyperlink,GLOBAL.VisionRangeConcept]Vision Range[/hyperlink]"
 
 msgid "INTERFACE@TEXT@WATCH_REPLAY"
-msgstr "Watch Replay"
+msgstr "Подивіться Повтор"
 
 msgid "INTERFACE@TEXT@WHEN_LOCATION_IS_VISIBLE"
 msgstr "When location is visible."
@@ -36494,13 +36494,13 @@ msgid "INTERFACE@TEXT@WIZARD_KING@NAME"
 msgstr "Wizard King"
 
 msgid "INTERFACE@TEXT@WON_DOOMSDAY"
-msgstr "You are victorious!"
+msgstr "Ви виграли!"
 
 msgid "INTERFACE@TEXT@WORLD"
-msgstr "Realm"
+msgstr "світ"
 
 msgid "INTERFACE@TEXT@WORLDS"
-msgstr "Realms"
+msgstr "Світи"
 
 msgid "INTERFACE@TEXT@WORLD_MAP"
 msgstr "World Map"
@@ -36527,16 +36527,16 @@ msgid "INTERFACE@TEXT@WORLD_MAP_SPELLS_HYPERLINK"
 msgstr "[hyperlink,GLOBAL.WorldMapSpellConcept]World Map Spell[/hyperlink]"
 
 msgid "INTERFACE@TEXT@WORLD_SETTINGS"
-msgstr "Realm Settings"
+msgstr "Параметри світу"
 
 msgid "INTERFACE@TEXT@WORLD_SETUP"
-msgstr "Realm Setup"
+msgstr "Налаштування світу"
 
 msgid "INTERFACE@TEXT@WORLD_SIZE"
-msgstr "World Size"
+msgstr "Розмір світу"
 
 msgid "INTERFACE@TEXT@WORLD_SPELL"
-msgstr "[caststrategic/] World Spell"
+msgstr "[caststrategic/] Світове заклинання"
 
 msgid "INTERFACE@TEXT@WORLD_SPELL@DESCRIPTION"
 msgstr ""
@@ -36548,97 +36548,97 @@ msgstr ""
 "[caststrategic/] [hyperlink,GLOBAL.WorldSpellConcept]World Spell[/hyperlink]"
 
 msgid "INTERFACE@TEXT@WORLD_TRAITS"
-msgstr "Realm Traits"
+msgstr "Особливості світу"
 
 msgid "INTERFACE@TEXT@YOUR_ALLIES"
-msgstr "Your allies"
+msgstr "Ваші союзники"
 
 msgid "INTERFACE@TEXT@YOUR_ARMY_HAS_DISEMBARKED"
-msgstr "Your army has disembarked!"
+msgstr "Ваше військо висадилося!"
 
 msgid "INTERFACE@TEXT@YOUR_ARMY_HAS_EMBARKED"
-msgstr "Your army has embarked!"
+msgstr "Ваше військо вирушило на корабель!"
 
 msgid "INTERFACE@TEXT@YOUR_ARMY_HAS_MERGED"
-msgstr "Armies merged!"
+msgstr "Армії об'єднані!"
 
 msgid "INTERFACE@TEXT@YOU_ARE_ABOUT_TO_TRESPASS"
-msgstr "You are about to trespass!"
+msgstr "Ти збираєшся порушити межі!"
 
 msgid "INTERFACE@TEXT@YOU_ARE_ABOUT_TO_USE_A_SPEC_OP"
-msgstr "You are about to cast a spell!"
+msgstr "Ви збираєтеся застосувати заклинання!"
 
 msgid "INTERFACE@TEXT@YOU_ARE_TRESPASSING"
-msgstr "Your army is trespassing"
+msgstr "Ваша армія порушує кордони"
 
 msgid "INTERFACE@TEXT@YOU_BRACKETS"
-msgstr "(You)"
+msgstr "(Ви)"
 
 msgid "INTERFACE@TEXT@YOU_COLLECT"
 msgstr "You collect:"
 
 msgid "INTERFACE@TEXT@YOU_PAY"
-msgstr "You pay"
+msgstr "Ви платите"
 
 msgid "INTERFACE@TEXT@YOU_RECEIVE"
-msgstr "You receive"
+msgstr "Ви отримуєте"
 
 msgid "INTERFACE@TEXT@ZOOM"
-msgstr "Zoom"
+msgstr "масштабування"
 
 msgid "INTERFACE@THREAT_LEVEL@HIGH"
-msgstr "High"
+msgstr "Високий"
 
 msgid "INTERFACE@THREAT_LEVEL@LOW"
-msgstr "Low"
+msgstr "Низький"
 
 msgid "INTERFACE@THREAT_LEVEL@MIDDLE"
-msgstr "Normal"
+msgstr "нормальний"
 
 msgid "INTERFACE@THREAT_LEVEL@PASSIVE"
-msgstr "Passive"
+msgstr "Пасивний"
 
 msgid "INTERFACE@TIMELINE@DESCRIPTION"
-msgstr "Scrub the timeline or press Play to see the empires evolve."
+msgstr "Натисніть кнопку відтворення, щоб побачити, як розвивалися імперії."
 
 msgid "INTERFACE@TIMELINE@HEADER"
 msgstr "Timeline"
 
 msgid "INTERFACE@TODO_EVENT@CONCEALED_MEET"
-msgstr "Discovered another Ruler while concealed"
+msgstr "Ви виявили іншого правителя"
 
 msgid "INTERFACE@TODO_EVENT@RECEIVED_CALLTOWAR"
-msgstr "Answer Call to War"
+msgstr "Відповісти на виклик до війни"
 
 msgid "INTERFACE@TOKEN_SHORTAGE_EVENT@EVENT_MESSAGE"
-msgstr "Token shortage!"
+msgstr "Дефіцит жетонів!"
 
 msgid "INTERFACE@TOME_OF_WONDERS@ALL_CULTURES"
-msgstr "All Cultures"
+msgstr "Усі культури"
 
 msgid "INTERFACE@TOME_OF_WONDERS@ALL_EQUIPMENT"
-msgstr "All Equipment"
+msgstr "Все обладнання"
 
 msgid "INTERFACE@TOME_OF_WONDERS@ALL_GAME_CONCEPTS"
-msgstr "All Game Concepts"
+msgstr "Усі ігрові концепції"
 
 msgid "INTERFACE@TOME_OF_WONDERS@ALL_LORE"
-msgstr "All Lore Concepts"
+msgstr "Вся інформація"
 
 msgid "INTERFACE@TOME_OF_WONDERS@ALL_STRUCTURES"
-msgstr "All Structures"
+msgstr "Всі структури"
 
 msgid "INTERFACE@TOME_OF_WONDERS@ALL_TOMES"
-msgstr "All Tomes"
+msgstr "Усі книги"
 
 msgid "INTERFACE@TOME_OF_WONDERS@ALL_WILDLIFE"
-msgstr "All Wildlife"
+msgstr "Вся дика природа"
 
 msgid "INTERFACE@TOME_OF_WONDERS@CHARACTERS"
-msgstr "Characters"
+msgstr "Персонажі"
 
 msgid "INTERFACE@TOME_OF_WONDERS@COMBAT"
-msgstr "Combat"
+msgstr "Бій"
 
 msgid "INTERFACE@TOME_OF_WONDERS@COSMOLOGY"
 msgstr "Cosmology"
@@ -36692,13 +36692,13 @@ msgid "INTERFACE@TOME_OF_WONDERS@WILDLIFE"
 msgstr "Wildlife"
 
 msgid "INTERFACE@TOME_OF_WONDERS_SEARCH@TIP_GAME_CONCEPTS"
-msgstr "Game Concepts"
+msgstr "Концепції гри"
 
 msgid "INTERFACE@TOME_OF_WONDERS_TABS@HERO_SKILLS"
 msgstr "Hero Skills"
 
 msgid "INTERFACE@TOME_OF_WONDERS_TABS@SEARCH"
-msgstr "Search"
+msgstr "Пошук"
 
 msgid "INTERFACE@TOOLTIP@ALREADY_AT_WAR_HOUSE"
 msgstr "You are already at war with this city."
@@ -37116,33 +37116,33 @@ msgid "INTERFACESETTINGS_UNITPROPERTIES@STATUS_EFFECT_WEAKNESS@NAME"
 msgstr "Status Weakness"
 
 msgid "INTROVIDEO@INTRO_001"
-msgstr "A power older than time... has returned."
+msgstr "Сили, що давніші за самий час, повертаються."
 
 msgid "INTROVIDEO@INTRO_002"
 msgstr ""
-"Free from their imprisonment, Ancient Wizard Kings come, seeking lost "
-"magicks and new realms to conquer…"
+"Звільнені із ув'язнення, королі-чарівники давнини знову шукають заборонені"
+"знання та підкорюють нові світи…"
 
 msgid "INTROVIDEO@INTRO_003"
-msgstr "Turning all whom they encounter, by choice... or by force."
+msgstr "Добровільно чи з примусу, вони підпорядковують нові народи…"
 
 msgid "INTROVIDEO@INTRO_004"
-msgstr "Through strife, Champions arise…"
+msgstr "У цій боротьбі народжуються герої…"
 
 msgid "INTROVIDEO@INTRO_005"
-msgstr "... new unities are founded..."
+msgstr "створюються нові імперії."
 
 msgid "INTROVIDEO@INTRO_006"
-msgstr "... and powerful arcane knowledge, unlocked."
+msgstr "відкриваються секрети могутнього чаклунства."
 
 msgid "INTROVIDEO@INTRO_007"
-msgstr "As gods and mortals clash..."
+msgstr "Боги і смертні воюють у бою…"
 
 msgid "INTROVIDEO@INTRO_008"
-msgstr "the forces unleashed..."
+msgstr "вивільняючи сили…"
 
 msgid "INTROVIDEO@INTRO_009"
-msgstr "will shape the new Age of Wonders."
+msgstr "які визначать нову Епоху чудес."
 
 msgid "ITEMS_UNITPROPERTIES@CHEST01@DESCRIPTION"
 msgstr ""
@@ -37274,7 +37274,7 @@ msgid "LEVELGENERATOR@LOBBY_NAMES@SQUIRE"
 msgstr "AI: Very Easy"
 
 msgid "LEVELGENERATOR@LOBBY_NAMES@UNKNOWN_LEADER"
-msgstr "Unknown Ruler"
+msgstr "Невідомий правитель"
 
 msgid "LEVELGENERATOR@LORD_NAME@NO_NAME_SET"
 msgstr "No name set"
@@ -38808,21 +38808,21 @@ msgstr "Fey-blessed Fields"
 
 msgid "META_EMPIRE@REALM_TUTORIAL@DESCRIPTION"
 msgstr ""
-"The returning Wizard Kings first preyed on small, bountiful and harmonious "
-"realms to hone their skills. Will you be a protector or invader of this "
-"beautiful domain?"
+"Королі-чарівники, які повернулися, спочатку полювали на маленькі, "
+"щедрі та гармонійні царства, щоб відточити свої навички. Ви будете захисником чи загарбником цього "
+"прекрасного домену?"
 
 msgid "META_EMPIRE@REALM_TUTORIAL@NAME_1"
-msgstr "Fields of Rebirth"
+msgstr "Поля відродження"
 
 msgid "META_EMPIRE@REALM_TUTORIAL@SUBTITLE"
 msgstr ""
-"The returning <<m:{GLOBAL.WizardKingLoreConcept.Hyperlink}>> first preyed on "
-"small, bountiful and harmonic realms to hone their skills. Will you be a "
-"protector or invader of this beautiful domain?"
+"Повернувшись з безодні, <<m:{GLOBAL.WizardKingLoreConcept.Hyperlink}>> почали з підкорення "
+"невеликих і спокійних світів, не здатних чинити серйозного опору. "
+"Чи станете ви захисником чи руйнівником цього прекрасного світу?"
 
 msgid "META_EMPIRE@REALM_TUTORIAL@TEMPLATE_NAME"
-msgstr "Initiation Realm"
+msgstr "Світ ініціації"
 
 msgid "META_EMPIRE@REALM_TUTORIAL@TRAIT@DESCRIPTION"
 msgstr ""
@@ -38833,10 +38833,10 @@ msgstr ""
 "[/bulletlist]"
 
 msgid "META_EMPIRE@REALM_TUTORIAL@TRAIT@NAME"
-msgstr "Harmonious Lands"
+msgstr "Гармонійні землі"
 
 msgid "META_EMPIRE@REALM_YOUNG_REALM@NAME_1"
-msgstr "The Vacant Garden"
+msgstr "Пустий сад"
 
 msgid "META_EMPIRE@REALM_YOUNG_REALM@NAME_2"
 msgstr "The Forming Fields"
@@ -38953,7 +38953,7 @@ msgstr ""
 "SANDSTORMS_UNIT_PROPERTY.Hyperlink}[/bulletlist]"
 
 msgid "META_EMPIRE@TRAIT_BARREN_OCEANS@NAME"
-msgstr "Barren Oceans"
+msgstr "Безплідні океани"
 
 msgid "META_EMPIRE@TRAIT_CITY_STATES@DESCRIPTION"
 msgstr ""
@@ -38971,23 +38971,23 @@ msgstr "City States"
 
 msgid "META_EMPIRE@TRAIT_COAST_MAP@DESCRIPTION"
 msgstr ""
-"This realm consists of a single connected landmass next to a small sea."
+"Це світ складається з однієї з’єднаної суші поруч із невеликим морем."
 "[bulletlist][bullet/]This realm features a single massive landmass."
 "[bullet/]Each {GLOBAL.EmpireConcept.Hyperlink} shares a single landmass.[/"
 "bulletlist]"
 
 msgid "META_EMPIRE@TRAIT_COAST_MAP@NAME"
-msgstr "Coast"
+msgstr "узбережжя"
 
 msgid "META_EMPIRE@TRAIT_CONTINENTS_MAP@DESCRIPTION"
 msgstr ""
-"This realm is dominated by several large contested landmasses.[bulletlist]"
-"[bullet/]This realm consists of several large landmasses separated by oceans."
-"[bullet/]Each {GLOBAL.EmpireConcept.Hyperlink} shares a landmass with one or "
-"two other <<m:{GLOBAL.EmpireConcept.Hyperlink}>>.[/bulletlist]"
+"Цей світ поділений на кілька великих континентів.[bulletlist]"
+"[bullet/]Світ складається з кількох великих континентів, розділених океанами."
+"[bullet/]Кожна {GLOBAL.EmpireConcept.Hyperlink} ділить ділянку з однієї "
+"або двома іншими <<m:{GLOBAL.EmpireConcept.Hyperlink}>>.[/bulletlist]"
 
 msgid "META_EMPIRE@TRAIT_CONTINENTS_MAP@NAME"
-msgstr "Continents"
+msgstr "Континенти"
 
 msgid "META_EMPIRE@TRAIT_CRYSTALLINE_ABUNDANCE@DESCRIPTION"
 msgstr ""
@@ -39118,11 +39118,11 @@ msgstr "Distrusting Locals"
 
 msgid "META_EMPIRE@TRAIT_DIVIDE_MAP@DESCRIPTION"
 msgstr ""
-"A land-dominated realm divided in two by an ocean.[bulletlist][bullet/]This "
-"realm consists of two massive landmasses separated by an ocean.[/bulletlist]"
+"Королівство, де домінує суша, розділене океаном на дві частини.[bulletlist][bullet/]Це "
+"світ складається з двох масивних масивів суші, розділених океаном.[/bulletlist]"
 
 msgid "META_EMPIRE@TRAIT_DIVIDE_MAP@NAME"
-msgstr "Divide"
+msgstr "Поділ"
 
 msgid "META_EMPIRE@TRAIT_DOMAIN_OF_MAYHEM@DESCRIPTION"
 msgstr ""
@@ -39344,23 +39344,23 @@ msgstr "Immortal Spirits"
 
 msgid "META_EMPIRE@TRAIT_ISLANDS_MAP@DESCRIPTION"
 msgstr ""
-"This realm is dominated by oceans, but features many small islands."
+"У цьому світі переважають океани, але є багато маленьких островів."
 "[bulletlist][bullet/]This realm consists of several small landmasses "
 "separated by oceans.[bullet/]Each {GLOBAL.EmpireConcept.Hyperlink} has their "
 "own landmass.[/bulletlist]"
 
 msgid "META_EMPIRE@TRAIT_ISLANDS_MAP@NAME"
-msgstr "Islands"
+msgstr "Острови"
 
 msgid "META_EMPIRE@TRAIT_LAND_MAP@DESCRIPTION"
 msgstr ""
-"This realm consists of one large landmass without any large bodies of water."
-"[bulletlist][bullet/]This realm features a single massive landmass."
+"Це світ складається з однієї великої суші без будь-яких великих водойм."
+"[bulletlist][bullet/]Це світ має єдину масивну сушу."
 "[bullet/]Each {GLOBAL.EmpireConcept.Hyperlink} shares a single landmass.[/"
 "bulletlist]"
 
 msgid "META_EMPIRE@TRAIT_LAND_MAP@NAME"
-msgstr "Land"
+msgstr "Земля"
 
 msgid "META_EMPIRE@TRAIT_LAVA_DIVIDE@DESCRIPTION"
 msgstr ""
@@ -39623,7 +39623,7 @@ msgstr ""
 "domain."
 
 msgid "META_EMPIRE@TRAIT_PRETENDER_KINGS@NAME"
-msgstr "Pretender Kings"
+msgstr "Королі-претенденти"
 
 msgid "META_EMPIRE@TRAIT_PRETENDER_KINGS@OBJECTIVE_1"
 msgstr "Defeat or form an Alliance with Darman Voss"
@@ -43692,20 +43692,20 @@ msgid "RACE_NAMES@RACE9@NAME"
 msgstr "Human Devotees"
 
 msgid "REALM_TRAIT@CATEGORY@CLIME"
-msgstr "Clime Trait"
+msgstr "Особливість клімату"
 
 msgid "REALM_TRAIT@CATEGORY@CLIME_DESC"
-msgstr "Clime traits modify the overlay and theme composition of the realm."
+msgstr "Особливості клімату впливають на вигляд та склад світу."
 
 msgid "REALM_TRAIT@CATEGORY@GEOGRAPHY"
-msgstr "Geography Trait"
+msgstr "Особливість місцевості"
 
 msgid "REALM_TRAIT@CATEGORY@GEOGRAPHY_DESC"
 msgstr ""
-"Geography traits determine the general layout of landmasses of the realm."
+"Особливість місцевості визначають загальне розташування масивів суші світу."
 
 msgid "REALM_TRAIT@CATEGORY@INHABITANTS"
-msgstr "Inhabitants Trait"
+msgstr "Особливість жителів"
 
 msgid "REALM_TRAIT@CATEGORY@INHABITANTS_DESC"
 msgstr ""
@@ -43713,7 +43713,7 @@ msgstr ""
 "infestations on the realm."
 
 msgid "REALM_TRAIT@CATEGORY@MISC"
-msgstr "Misc Trait"
+msgstr "Різні особливості"
 
 msgid "REALM_TRAIT@CATEGORY@MISC_DESC"
 msgstr ""
@@ -43721,10 +43721,10 @@ msgstr ""
 "otherwise provide twists to the realm."
 
 msgid "REALM_TRAIT@CATEGORY@PRESENCE"
-msgstr "Presence Trait"
+msgstr "Особливість присутності"
 
 msgid "REALM_TRAIT@CATEGORY@PRESENCE_DESC"
-msgstr "Presence traits add unique leaders and empires to the realm."
+msgstr "Особливості присутності додають у світ унікальних правителів та імперії."
 
 msgid "REALM_TRAIT@SUBCATEGORY@ENVIRONMENT"
 msgstr "Environmental Effects"
@@ -43847,10 +43847,10 @@ msgid "RESISTANCE@NAME"
 msgstr "Resistance"
 
 msgid "RMG@DEFAULT_WORLD_CUSTOM@NAME"
-msgstr "Custom Realm"
+msgstr "Користувальницький світ"
 
 msgid "RMG@DEFAULT_WORLD_CUSTOM@SUB_NAME"
-msgstr "A realm of your own creation."
+msgstr "Світ, створене вами."
 
 msgid "RMG@DEFAULT_WORLD_RANDOM_SELECTED@NAME"
 msgstr "Unknown Realm"
@@ -43877,19 +43877,19 @@ msgid "RMG@MAP_TYPE@DIVIDE"
 msgstr "Divide"
 
 msgid "RMG@MAP_TYPE@ISLANDS"
-msgstr "Islands"
+msgstr "Острови"
 
 msgid "RMG@MAP_TYPE@LAND"
-msgstr "Land"
+msgstr "Суша"
 
 msgid "RMG@PLAYER_DISTANCE@CLOSE"
-msgstr "Close"
+msgstr "Невелике"
 
 msgid "RMG@PLAYER_DISTANCE@FAR"
-msgstr "Far"
+msgstr "Великий"
 
 msgid "RMG@PLAYER_DISTANCE@STANDARD"
-msgstr "Standard"
+msgstr "Стандартний"
 
 msgid "RMG_SECTORS_STRATEGIC@SECTOR_NAME_HOUSES@NAME_01"
 msgstr "Green Hills"
@@ -43941,10 +43941,10 @@ msgstr ""
 "limit is reached is victorious."
 
 msgid "SCORE_VICTORY@VICTORY_CONDITION@NAME"
-msgstr "Score Victory"
+msgstr "Очки Перемога"
 
 msgid "SCORE_VICTORY@VICTORY_CONDITION@OBJECTIVE"
-msgstr "Score: {INT_Points} [br/]Round: {INT_Turns}/{INT_Max}"
+msgstr "рахунок: {INT_Points} [br/]Round: {INT_Turns}/{INT_Max}"
 
 msgid "SCRYING@HERO_SKILL@DESCRIPTION"
 msgstr ""
@@ -65817,7 +65817,7 @@ msgstr ""
 "and their magic beyond what mere practitioners think possible.\""
 
 msgid "TOME_AMPLIFICATION@TOME@NAME"
-msgstr "Tome of Amplification"
+msgstr "Фоліант посилення"
 
 msgid "TOME_AMPLIFICATION@UNIT1@ABILITY1@DESCRIPTION"
 msgstr ""
@@ -65955,7 +65955,7 @@ msgstr ""
 "quaking in terror.\""
 
 msgid "TOME_ARCHDRUID@TOME@NAME"
-msgstr "Tome of Nature's Wrath"
+msgstr "Фоліант гніву природи"
 
 msgid "TOME_ARCHDRUID@UNIT1@ABILITY1@JUMP@DESCRIPTION"
 msgstr ""
@@ -66106,7 +66106,7 @@ msgstr ""
 "raise a city... they may veritably claim the title of artificer!\""
 
 msgid "TOME_ARTIFICER@TOME@NAME"
-msgstr "Tome of Artificing"
+msgstr "Фоліант Артифікації"
 
 msgid "TOME_ARTIFICING@ABILITY1@DESCRIPTION"
 msgstr ""
@@ -66336,7 +66336,7 @@ msgstr ""
 "used to infuse their subjects, enhancing them in a number of ways.\""
 
 msgid "TOME_ASTRAL_CONVERGENCE@TOME@NAME"
-msgstr "Tome of Astral Convergence"
+msgstr "Фоліант астральної конвергенції"
 
 msgid "TOME_ASTRAL_MIRROR@AUTO_REVERT@DESCRIPTION"
 msgstr ""
@@ -66446,7 +66446,7 @@ msgstr ""
 "sheer genius, truly!\""
 
 msgid "TOME_ASTRAL_MIRROR@TOME@NAME"
-msgstr "Tome of the Astral Mirror"
+msgstr "Фоліант астрального дзеркала"
 
 msgid "TOME_ASTRAL_MIRROR@UNIT@NAME"
 msgstr "Mirror Mimic^n"
@@ -66558,7 +66558,7 @@ msgstr ""
 "your path.\""
 
 msgid "TOME_BEACON@TOME@NAME"
-msgstr "Tome of the Beacon"
+msgstr "Фоліант Маяка"
 
 msgid "TOME_BEACON@UNIT2@NAME"
 msgstr "Divine Beacon^n"
@@ -66686,7 +66686,7 @@ msgstr ""
 "madness and turmoil, twisted ever in their favor!\""
 
 msgid "TOME_CHAOS_CHANNELING@TOME@NAME"
-msgstr "Tome of Chaos Channeling"
+msgstr "Фоліант Хаосу Ченнелінг"
 
 msgid "TOME_CHAOS_LORD@HERO_SKILL@DESCRIPTION"
 msgstr ""
@@ -66768,7 +66768,7 @@ msgstr ""
 "birthed in fire and blood, o Godir, and bring forth the Age of Chaos!\""
 
 msgid "TOME_CHAOS_LORD@TOME@NAME"
-msgstr "Tome of the Chaos Lord"
+msgstr "Фоліант Володаря Хаосу"
 
 msgid "TOME_COLD_DARK@HERO_SKILL@DESCRIPTION"
 msgstr ""
@@ -66889,7 +66889,7 @@ msgstr ""
 "to fight, to win, to live!\""
 
 msgid "TOME_COLD_DARK@TOME@NAME"
-msgstr "Tome of the Cold Dark"
+msgstr "Фоліант холодної темряви"
 
 msgid "TOME_CREATOR@HERO_SKILL@DESCRIPTION"
 msgstr ""
@@ -66984,7 +66984,7 @@ msgstr ""
 "mineral take a knee. You are the Creator, a shaper of worlds.\""
 
 msgid "TOME_CREATOR@TOME@NAME"
-msgstr "Tome of the Creator"
+msgstr "Фоліант Творця"
 
 msgid "TOME_CREATOR@UNIT1@ABILITY1@DESCRIPTION"
 msgstr ""
@@ -67153,7 +67153,7 @@ msgstr ""
 "traced over the realm.\""
 
 msgid "TOME_CRUCIBLE@TOME@NAME"
-msgstr "Tome of the Crucible"
+msgstr "Фоліант Горнила"
 
 msgid "TOME_CRYOMANCY@PASSIVE@DESCRIPTION"
 msgstr ""
@@ -67268,7 +67268,7 @@ msgstr ""
 "time when mortals huddled in caves, fearing the cold would claim them...\""
 
 msgid "TOME_CRYOMANCY@TOME@NAME"
-msgstr "Tome of Cryomancy"
+msgstr "Фоліант кріомантії"
 
 msgid "TOME_CRYOMANCY@UNIT1@ABILITY1@DESCRIPTION"
 msgstr "Deal damage to target enemy unit."
@@ -67434,7 +67434,7 @@ msgstr ""
 "will find you can manipulate both its gifts as well as the toll it demands!\""
 
 msgid "TOME_CYCLES@TOME@NAME"
-msgstr "Tome of Cycles"
+msgstr "Фоліант циклів"
 
 msgid "TOME_CYCLES@UNIT@NAME"
 msgstr "Druid of the Cycle"
@@ -67716,7 +67716,7 @@ msgstr ""
 "labor, and even your people, to see your empire rise above any other.\""
 
 msgid "TOME_ENCHANTMENT@TOME@NAME"
-msgstr "Tome of Enchantment"
+msgstr "Фоліант зачарування"
 
 msgid "TOME_ENCHANTMENT@UNIT1@NAME"
 msgstr "Copper Golem^n"
@@ -68141,7 +68141,7 @@ msgstr ""
 "faith, stoke it, and it shall bolster your believers for all time!\""
 
 msgid "TOME_FAITH@TOME@NAME"
-msgstr "Tome of Faith"
+msgstr "Фоліант Віри"
 
 msgid "TOME_FAITH@UNIT@NAME"
 msgstr "Chaplain^f"
@@ -69192,7 +69192,7 @@ msgstr ""
 "their lives.\""
 
 msgid "TOME_HORDE@TOME@NAME"
-msgstr "Tome of the Horde"
+msgstr "Фоліант Орди"
 
 msgid "TOME_HORDE@UNIT2@NAME"
 msgstr "War Hound^n"
@@ -70366,7 +70366,7 @@ msgstr ""
 "minions of stone, and turn your own skin into the hardest rock!\""
 
 msgid "TOME_ROCK@TOME@NAME"
-msgstr "Tome of Rock"
+msgstr "Фоліант скелі"
 
 msgid "TOME_ROCK@UNIT@NAME"
 msgstr "Gargoyle"
@@ -70467,7 +70467,7 @@ msgstr ""
 "cage of entangling vines.\""
 
 msgid "TOME_ROOTS@TOME@NAME"
-msgstr "Tome of Roots"
+msgstr "Фоліант Коріння"
 
 msgid "TOME_ROOTS@UNIT1@ABILITY1@DESCRIPTION"
 msgstr ""
@@ -71594,7 +71594,7 @@ msgstr ""
 "harness it and strengthen your pack with the force of nature itself.\""
 
 msgid "TOME_VIGOR@TOME@NAME"
-msgstr "Tome of Vigor"
+msgstr "Фоліант енергійності"
 
 msgid "TOME_VIGOR@UNIT1@NAME"
 msgstr "Totem of the Wild"
@@ -71702,7 +71702,7 @@ msgstr ""
 "of warding will find a myriad of ways to keep their subjects safe.\""
 
 msgid "TOME_WARDING@TOME@NAME"
-msgstr "Tome of Warding"
+msgstr "Фоліант Захисту"
 
 msgid "TOME_WARDING@UNIT@NAME"
 msgstr "Phantasm Warrior"
@@ -71825,7 +71825,7 @@ msgstr ""
 "may reap the benefits of this primal power.\""
 
 msgid "TOME_WILD@TOME@NAME"
-msgstr "Tome of Beasts"
+msgstr "Tфоліант звірів"
 
 msgid "TOME_WILD_MAGIC@SKILL1@DESCRIPTION"
 msgstr ""
@@ -72127,7 +72127,7 @@ msgstr ""
 "wither their very souls.\""
 
 msgid "TOME_ZEAL@TOME@NAME"
-msgstr "Tome of Zeal"
+msgstr "Фоліант вірності"
 
 msgid "TOME_ZEAL@UNIT1@DESCRIPTION"
 msgstr ""
@@ -72207,11 +72207,11 @@ msgstr ""
 "[abilityred]<DEV - can for now equip items>[/abilityred]"
 
 msgid "TRAITS_BACKGROUND_CHARACTERS@MAIN_TYPE@RACIAL_LEADER"
-msgstr "Champion"
+msgstr "Чемпіон"
 
 msgid "TRAITS_BACKGROUND_CHARACTERS@MAIN_TYPE@RACIAL_LEADER@DESCRIPTION"
 msgstr ""
-"[helpcolor]A Ruler risen from the ranks of their people.[/helpcolor][br/]"
+"[helpcolor]Правитель, що вийшов із лав свого народу.[/helpcolor][br/]"
 "[bulletlist][bullet/]All <<m:{GLOBAL.CityConcept.Hyperlink}>> have "
 "{goldamount} {GLOBAL.GoldConcept.Hyperlink} income and {happinessamount} "
 "{GLOBAL.CityStabilityConcept.Hyperlink}.[bullet/]All non-{GLOBAL.HeroConcept."
@@ -72224,11 +72224,11 @@ msgid "TRAITS_BACKGROUND_CHARACTERS@MAIN_TYPE@RACIAL_LEADER@RELATION_MODIFIER"
 msgstr "Ruler Origin: Champion of the People"
 
 msgid "TRAITS_BACKGROUND_CHARACTERS@MAIN_TYPE@WIZARD_KING"
-msgstr "Wizard King"
+msgstr "Король-чарівник"
 
 msgid "TRAITS_BACKGROUND_CHARACTERS@MAIN_TYPE@WIZARD_KING@DESCRIPTION"
 msgstr ""
-"[helpcolor]A powerful Wizard seeking dominion over a new realm.[/helpcolor]"
+"[helpcolor]Могутній чарівник, який прагне панувати над новим світом.[/helpcolor]"
 "[br/][bulletlist][bullet/]All <<m:{GLOBAL.CityConcept.Hyperlink}>> have "
 "{manaamount} {GLOBAL.ManaConcept.Hyperlink} income.[bullet/]{points} <<m:"
 "{GLOBAL.WorldMapCastingPointConcept.Hyperlink}>> and <<m:{GLOBAL."
@@ -75014,7 +75014,7 @@ msgstr ""
 "and then choose the [tow/] button."
 
 msgid "TUTORIAL@TOMEOFWONDERS@TITLE"
-msgstr "Encyclopedia"
+msgstr "Енциклопедія"
 
 msgid "TUTORIAL@TOMESELECTION@DESCRIPTION"
 msgstr "Tutorial on selecting tomes and advancing in arcane research"
