@@ -1,4 +1,4 @@
-![alt text](imeges/33cbb10ebbafdf859cd18f327572ba19.png)
+![alt text](https://github.com/EYELESS-UA/EYELESS-UA/blob/main/assets/img/33cbb10ebbafdf859cd18f327572ba19.png)
 
 Це переклад гри Age of Wonders 4 українською з використанням машинного перекладу (ChatGPT) з корекцією.
 
