@@ -15,3 +15,6 @@
 - Розархівуйте архів у папку з грою
 - Запустіть гру
 - Відкрийте налаштування і оберіть мову
+
+
+[![alt](https://github.com/EYELESS-UA/EYELESS-UA/blob/main/assets/img/donatello_300x50.png?raw=true)](https://donatello.to/LGamesStudio)
