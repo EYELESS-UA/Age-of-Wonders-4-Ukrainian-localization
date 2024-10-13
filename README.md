@@ -11,7 +11,7 @@
 
 ### Встановлення
 ---
-- Завантажте [архів]([https://github.com/EYELESS-UA/Age-of-Wonders-4-Ukrainian-localization/releases/download/v0.1.0-demo/AoW4_B_1.1.6.7z])
+- Завантажте [архів](https://github.com/EYELESS-UA/Age-of-Wonders-4-Ukrainian-localization/releases/download/v0.1.0-demo/AoW4_B_1.1.6.7z)
 - Розархівуйте архів у папку з грою
 - Запустіть гру
 - Відкрийте налаштування і оберіть мову
