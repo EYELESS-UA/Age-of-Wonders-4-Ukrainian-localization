@@ -6,8 +6,8 @@
 
 ### Хід Перекладу
 - [x] Age of Wonders 4: Основна гра
-- [ ] Age of Wonders 4: Expansion Pass 1
-- [ ] Age of Wonders 4: Expansion Pass 2
+- [x] Age of Wonders 4: Expansion Pass 1
+- [x] Age of Wonders 4: Expansion Pass 2
 
 ### Встановлення
 ---
