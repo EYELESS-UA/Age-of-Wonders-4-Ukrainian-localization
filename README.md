@@ -71,9 +71,8 @@
 
 Якщо вам подобаються наші локалізації і ви хочете підтримати автора чи прискорити розвиток проектів, ви можете закинути на каву або фінансування нових ідей через Монобанку:
 
-👉 **[ПОСИЛАННЯ НА ТВОЮ МОНОБАНКУ]**
 
-[![Донат через Монобанк](https://img.shields.io/badge/Підтримати_проект-Monobank-5865F2?style=for-the-badge&logo=monobank&logoColor=white&color=ff5a5f)](https://send.monobank.ua/jar/ТВІЙ_ID_БАНКИ)
+[![Донат через Монобанк](https://img.shields.io/badge/Підтримати_проект-Monobank-5865F2?style=for-the-badge&logo=monobank&logoColor=white&color=ff5a5f)](https://send.monobank.ua/jar/2jcizRNGLp)
 
 ### 🎯 На що йдуть кошти?
 Усі пожертви використовуються виключно для покращення та масштабування наших проектів перекладу. Зокрема на:
