@@ -63946,13 +63946,13 @@ msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@COLONY_OPERATION@PACK_UP@INPROGRESS_DESCRI
 msgstr "Триває спустошення міста. Процес завершиться через {Duration.Turn}."
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@COLONY_OPERATION@PACK_UP@NAME"
-msgstr ""
+msgstr "Згорнути табір"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@FIRST_MEET_EVENTS@EVENT_ADJECTIVE_1"
-msgstr ""
+msgstr "Підкорювальний"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@FIRST_MEET_EVENTS@EVENT_ADJECTIVE_2"
-msgstr ""
+msgstr "Грабіжницький"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@FIRST_MEET_EVENTS@EVENT_PHRASE_1"
 msgstr "Ми мандруємо краєм у пошуках скарбів."
@@ -64554,15 +64554,23 @@ msgstr "Монархія^fn"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@CHIMES_OF_MOMENTUM@DESCRIPTION"
 msgstr ""
+"Надає загонам, що не належать до початкової культури:[bulletlist][bullet/]"
+"{GLOBAL.PROPERTIES.EMPOWERING_MOMENTUM.Hyperlink}.[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@CHIMES_OF_MOMENTUM@NAME"
-msgstr ""
+msgstr "Дзвони імпульсу"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@SWIFTSTRIKE_BLESSING@DESCRIPTION"
 msgstr ""
+"Обраний союзний загін, який має очки дії, та інший загін у межах "
+"{SWIFTSTRIKE_BLESSING_TARGETER>MaxDistance} [range/] отримують:[bulletlist]"
+"[bullet/]{GLOBAL.PROPERTIES.MOMENTUM.Hyperlink} на "
+"{MOMENTUM_STATUS_EFFECT>NumTurns} [turn/].[bullet/]"
+"{GLOBAL.PROPERTIES.FORTUNE.Hyperlink} на "
+"{FORTUNE_EFFECT_DESCRIPTION>NumTurns} [turn/].[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@SWIFTSTRIKE_BLESSING@NAME"
-msgstr ""
+msgstr "Благословення швидких ударів"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@WATCHFUL_EYE@DESCRIPTION"
 msgstr ""
@@ -64570,7 +64578,7 @@ msgstr ""
 "[hyperlink,GLOBAL.HitPointConcept]одиниць здоров'я[/hyperlink].[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@WATCHFUL_EYE@NAME"
-msgstr ""
+msgstr "Пільне око"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@WATCHFUL_EYE@PROP_DESCRIPTION"
 msgstr ""
@@ -68658,7 +68666,7 @@ msgid "DLC@RISEFROMRUIN@TSR_CM@OBJECTIVE_FINAL"
 msgstr "{TSR_FINAL_SOLVED}/1 Завершено останнє випробування"
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@RANDOMNOMAD_RACE@NAME"
-msgstr ""
+msgstr "Кочівники"
 
 msgid "DLC@RISEFROMRUIN@TSR_CM@WIND@TOOLTIP@DESCRIPTION"
 msgstr "Лютіший кіт"
@@ -68710,7 +68718,7 @@ msgid "DLC@RISEFROMRUIN@TSR_GWL@FRACTURED_RALLY@NAME"
 msgstr ""
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@NOMAD_RALLY@NAME"
-msgstr ""
+msgstr "Союзники в пустелі"
 
 msgid "DLC@RISEFROMRUIN@TSR_GWL@NOTIFICATION@GREAT_WORM_BACK@DESCRIPTION"
 msgstr "Останній Легіон спустошив одне з твоїх міст. Армія загарбників відступила в глибини землі, звідки прийшла."
@@ -68892,7 +68900,7 @@ msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@HEADER_ROAMING"
 msgstr ""
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@NOMAD_RACE@NAME"
-msgstr ""
+msgstr "Войовничі кочівники"
 
 msgid "DLC@RISEFROMRUIN@TSR_RFR_GWL@NOTE_PLAYER_WON_DESC"
 msgstr ""
