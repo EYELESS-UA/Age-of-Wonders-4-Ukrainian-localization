@@ -30,7 +30,7 @@
 ### Варіант 3: Встановлення вручну (З файлів GitHub) ⚙️
 Якщо ви не використовуєте Steam або LBK, або ж хочете протестувати найсвіжішу тестову збірку:
 1. Перейдіть у розділ **[Releases](https://github.com/EYELESS-UA/Age-of-Wonders-4-Ukrainian-localization/releases)** на цьому GitHub та завантажте останній архів.
-2. Розпакуйте вміст архіву (файли з папки `build`) у папку для локальних модів Age of Wonders 4 (зазвичай це `Documents\Paradox Interactive\Age of Wonders 4\Mods).
+2. Розпакуйте вміст архіву у папку для локальних модів Age of Wonders 4 (зазвичай це `Documents\Paradox Interactive\Age of Wonders 4\Mods).
 3. Увімкніть мод у лаунчері гри.
 
 ---
