@@ -6,6 +6,14 @@
 ![Відкриті Issues](https://img.shields.io/github/issues/EYELESS-UA/Age-of-Wonders-4-Ukrainian-localization?style=flat-square)
 ![Останній коміт](https://img.shields.io/github/last-commit/EYELESS-UA/Age-of-Wonders-4-Ukrainian-localization?style=flat-square)
 
+<!---
+ <p align="center">
+  <a href="./README.md">🇺🇦 Українська</a> •
+  <a href="./README.en.md">🇬🇧 English</a> •
+ </p>
+-->
+
+---
 Публічний репозиторій для спільної розробки та координації перекладу гри **Age of Wonders 4** українською мовою. Мета проекту — створити якісну, автентичну локалізацію, яка враховує лор гри та специфіку всесвіту.
 
 ---
