@@ -718,16 +718,16 @@ msgid "ACHIEVEMENTS@LOCKED_DESCRIPTION106"
 msgstr "Здолати Вищого вампіра, будучи Чемпіоном класу рейнджера"
 
 msgid "ACHIEVEMENTS@LOCKED_DESCRIPTION107"
-msgstr ""
+msgstr "Завершіть «Секрети архімагів: Евермор»"
 
 msgid "ACHIEVEMENTS@LOCKED_DESCRIPTION108"
-msgstr ""
+msgstr "Завершіть «Секрети архімагів: Безодня Аж'Руун»"
 
 msgid "ACHIEVEMENTS@LOCKED_DESCRIPTION109"
-msgstr ""
+msgstr "Завершіть «Секрети архімагів: Нори»"
 
 msgid "ACHIEVEMENTS@LOCKED_DESCRIPTION110"
-msgstr ""
+msgstr "Виконайте завдання «Секрети архімагів» в Еверморі»"
 
 msgid "ACHIEVEMENTS@LOCKED_DESCRIPTION111"
 msgstr "Відновіть порядок у Безодні Аж'Руун, не підписуючи Непорушного пакту"
@@ -1063,25 +1063,25 @@ msgid "ACHIEVEMENTS@UNLOCKED_DESCRIPTION106"
 msgstr "Здолати Вищого вампіра, будучи Чемпіоном класу рейнджера"
 
 msgid "ACHIEVEMENTS@UNLOCKED_DESCRIPTION107"
-msgstr ""
+msgstr "Завершіть «Секрети архімагів: Евермор»"
 
 msgid "ACHIEVEMENTS@UNLOCKED_DESCRIPTION108"
-msgstr ""
+msgstr "Завершіть «Секрети архімагів: Безодня Аж'Руун»"
 
 msgid "ACHIEVEMENTS@UNLOCKED_DESCRIPTION109"
-msgstr ""
+msgstr "Завершіть «Секрети архімагів: Нори»"
 
 msgid "ACHIEVEMENTS@UNLOCKED_DESCRIPTION110"
-msgstr ""
+msgstr "Виконайте завдання «Секрети архімагів» в Еверморі"
 
 msgid "ACHIEVEMENTS@UNLOCKED_DESCRIPTION111"
 msgstr "Відновіть порядок у Безодні Аж'Руун, не підписуючи Непорушного пакту"
 
 msgid "ACHIEVEMENTS@UNLOCKED_DESCRIPTION112"
-msgstr ""
+msgstr "Розблокуйте секретне заклинання"
 
 msgid "ACHIEVEMENTS@UNLOCKED_DESCRIPTION113"
-msgstr ""
+msgstr "Розблокуйте Книгу Космосу"
 
 msgid "ACHIEVEMENTS@UNLOCKED_DESCRIPTION114"
 msgstr ""
@@ -1330,6 +1330,12 @@ msgstr "Розширюй свою імперію"
 
 msgid "AFFINITYCONTENT@AFFINITY_FINISHER_SPELL@DESCRIPTION"
 msgstr ""
+"Розблоковує одне або кілька з наступних заклинань, залежно від <<loc:m:c:{GLOBAL.AffinityConcept.Hyperlink}>> <<gen:c:"
+"{GLOBAL.TomeConcept.Hyperlink}>> 5-го рівня, яку було розблоковано: [bulletlist][bullet/]"
+"{GLOBAL.SPECIAL_OPERATIONS.AGE_OF_ASTRAL.Hyperlink}.[bullet/]{GLOBAL.SPECIAL_OPERATIONS.AGE_OF_CHAOS.Hyperlink}.[bullet/]"
+"{GLOBAL.SPECIAL_OPERATIONS.AGE_OF_MATERIUM.Hyperlink}.[bullet/]{GLOBAL.SPECIAL_OPERATIONS.AGE_OF_NATURE.Hyperlink}.[bullet/]"
+"{GLOBAL.SPECIAL_OPERATIONS.AGE_OF_ORDER.Hyperlink}.[bullet/]{GLOBAL.SPECIAL_OPERATIONS.AGE_OF_SHADOW.Hyperlink}.[/bulletlist][br/]"
+"[br/]Призов одного з цих заклинань є необхідним для досягнення <<gen:c:{GLOBAL.MagicVictoryConcept.Hyperlink}>>."
 
 msgid "AFFINITYCONTENT@AFFINITY_FINISHER_SPELL@NAME"
 msgstr ""
@@ -3928,7 +3934,7 @@ msgid "BASE_ABILITY@MAGIC_BLAST@DECAYING"
 msgstr "Гнилий вибух^m"
 
 msgid "BASE_ABILITY@MAGIC_BLAST@FENFIRE"
-msgstr ""
+msgstr "Болотний вибух^ma{1}mn{2}"
 
 msgid "BASE_ABILITY@MAGIC_BLAST@FIRE"
 msgstr "Вогняний вибух^m"
@@ -3997,7 +4003,7 @@ msgid "BASE_ABILITY@MAGIC_BOLTS@LIGHTNING"
 msgstr "Електричні снаряди^pa{1}pn{2}"
 
 msgid "BASE_ABILITY@MAGIC_BOLTS@MOON"
-msgstr ""
+msgstr "Місячні снаряди^pm{1}pn{2}"
 
 msgid "BASE_ABILITY@MAGIC_BOLTS@PHYSICAL"
 msgstr "Сталеві снаряди^pa{1}pn{2}"
@@ -4021,16 +4027,16 @@ msgid "BASE_ABILITY@MAGIC_BOLTS@WEAKENING"
 msgstr "Ослаблюючі снаряди"
 
 msgid "BASE_ABILITY@MAGIC_REBUKE@COSMOS"
-msgstr ""
+msgstr "Космічна догана^fa{1}fn{2}"
 
 msgid "BASE_ABILITY@MAGIC_REBUKE@PHYSICAL"
-msgstr ""
+msgstr "Докір сталі^fn{1}x{2}"
 
 msgid "BASE_ABILITY@MAGIC_SPIKE@COSMOS"
-msgstr ""
+msgstr "Космічний шип^ma{1}mn{2"
 
 msgid "BASE_ABILITY@MAGIC_SPIKE@PHYSICAL"
-msgstr ""
+msgstr "Космічний шип^ma{1}mn{2}"
 
 msgid "BASE_ABILITY@SHOOT_BOW@CRYSTAL"
 msgstr "Кристалічні стріли"
@@ -6000,7 +6006,7 @@ msgid "COLONYUPGRADES_STRATEGIC@GRAVE_OBELISK@NAME"
 msgstr "Могильний обеліск"
 
 msgid "COLONYUPGRADES_STRATEGIC@GUILD_SLOT_REQUIREMENT@INSERT"
-msgstr ""
+msgstr "<<m:{GLOBAL.GuildSlotConcept.Hyperlink}>> залишається в місті: {GuildPoints}"
 
 msgid "COLONYUPGRADES_STRATEGIC@HARBOR@NAME"
 msgstr "Суднобудівний завод"
@@ -7721,10 +7727,10 @@ msgid "COMBATPROPERTIES_TACTICAL@AUTUMNS_STORM@NAME"
 msgstr "Осіння буря"
 
 msgid "COMBATPROPERTIES_TACTICAL@AUTUMNS_STORM@SECTOR_DISPLAY@DESCRIPTION"
-msgstr ""
+msgstr "{GLOBAL.PROPERTIES.COMBATPROPERTY_FEY_AUTUMN.Hyperlink} наразі є поширеним явищем у цій провінції."
 
 msgid "COMBATPROPERTIES_TACTICAL@AUTUMNS_STORM@SECTOR_DISPLAY@NAME"
-msgstr ""
+msgstr "Володарка осені"
 
 msgid "COMBATPROPERTIES_TACTICAL@AVERTYOUREYES@DESCRIPTION"
 msgstr ""
@@ -8177,6 +8183,8 @@ msgstr "Охолоджувальні вентиляційні отвори"
 
 msgid "COMBATPROPERTIES_TACTICAL@ORDER_OF_GLUTTON@DESCRIPTION"
 msgstr ""
+"Караг отримує здатність поглинати купи кісток, які можна знайти розкиданими по всій мапі. Кожна поглинута купа дає один ефект "
+"<<gen:c:{GLOBAL.PROPERTIES.COMBATPROPERTY_DEVOURED_POWER.Hyperlink}>>."
 
 msgid "COMBATPROPERTIES_TACTICAL@ORDER_OF_GLUTTON@NAME"
 msgstr "Сила Ненажерливості"
@@ -8463,10 +8471,10 @@ msgid "COMBATPROPERTIES_TACTICAL@SPRINGS_GROWTH@NAME"
 msgstr "Весняне зростання"
 
 msgid "COMBATPROPERTIES_TACTICAL@SPRINGS_GROWTH@SECTOR_DISPLAY@DESCRIPTION"
-msgstr ""
+msgstr "{GLOBAL.PROPERTIES.COMBATPROPERTY_FEY_SPRING.Hyperlink} наразі є поширеним явищем у цій провінції."
 
 msgid "COMBATPROPERTIES_TACTICAL@SPRINGS_GROWTH@SECTOR_DISPLAY@NAME"
-msgstr ""
+msgstr "Володарка весни"
 
 msgid "COMBATPROPERTIES_TACTICAL@SPRINGS_GROWTH@SPELL_DESCRIPTION"
 msgstr "Додає <<acc:c:{GLOBAL.PROPERTIES.COMBATPROPERTY_FEY_SPRING.Hyperlink}>> до битви."
@@ -8503,10 +8511,10 @@ msgid "COMBATPROPERTIES_TACTICAL@SUMMERS_HEAT@NAME"
 msgstr "Літня спека"
 
 msgid "COMBATPROPERTIES_TACTICAL@SUMMERS_HEAT@SECTOR_DISPLAY@DESCRIPTION"
-msgstr ""
+msgstr "{GLOBAL.PROPERTIES.COMBATPROPERTY_FEY_SUMMER.Hyperlink} наразі є поширеним явищем у цій провінції."
 
 msgid "COMBATPROPERTIES_TACTICAL@SUMMERS_HEAT@SECTOR_DISPLAY@NAME"
-msgstr ""
+msgstr "Володарка літа"
 
 msgid "COMBATPROPERTIES_TACTICAL@SUNDERED_ARMOR_ARMY@DESCRIPTION"
 msgstr "Всі атакуючі юніти мають <<acc:c:{GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}>> до кінця битви."
@@ -8575,10 +8583,10 @@ msgid "COMBATPROPERTIES_TACTICAL@WINTERS_SORROW@NAME"
 msgstr "Зимова скорбота"
 
 msgid "COMBATPROPERTIES_TACTICAL@WINTERS_SORROW@SECTOR_DISPLAY@DESCRIPTION"
-msgstr ""
+msgstr "{GLOBAL.PROPERTIES.COMBATPROPERTY_FEY_WINTER.Hyperlink} наразі є поширеним явищем у цій провінції."
 
 msgid "COMBATPROPERTIES_TACTICAL@WINTERS_SORROW@SECTOR_DISPLAY@NAME"
-msgstr ""
+msgstr "Володарка зими"
 
 msgid "COMBAT_TUTORIAL@ACCURACY@DESCRIPTION"
 msgstr ""
@@ -9728,9 +9736,12 @@ msgstr "У [hyperlink,GLOBAL.ZoneOfControlConcept]зоні контролю[/hyp
 
 msgid "COREDEFINITIONS_MARKERS_TACTICAL@IMMOBILIZING_ATTACKERS_TAG@DESCRIPTION"
 msgstr ""
+"Якщо <<c:{GLOBAL.UnitConcept.Hyperlink}>>, яка не є <<ins:c:{GLOBAL.PROPERTIES.PLANT.Hyperlink}>>, закінчить свій <<acc:c:"
+"{GLOBAL.TurnConcept.Hyperlink}>> на цій позиції, вона матиме {chance} шанс отримати ефект <<c:"
+"{GLOBAL.PROPERTIES.IMMOBILIZED.Hyperlink}>> на {turn} [turn/]."
 
 msgid "COREDEFINITIONS_MARKERS_TACTICAL@IMMOBILIZING_TAG@NAME"
-msgstr ""
+msgstr "Нерухомість"
 
 msgid "COREDEFINITIONS_MARKERS_TACTICAL@MARKERS@BLINDING@DESCRIPTION"
 msgstr ""
@@ -10019,22 +10030,22 @@ msgid "CREATE_VASSALAGE@PREDICTION"
 msgstr "{OverLordPlayer} стає сувереном гравця: {VassalPlayer}."
 
 msgid "CRISIS@1160_1592@DESCRIPTION"
-msgstr ""
+msgstr "Дохід зменшено на {INT_Percentage}%"
 
 msgid "CRISIS@1160_1592@NAME"
-msgstr ""
+msgstr "[WIP] Failed Turn 5 Check"
 
 msgid "CRISIS@1160_1592@SUB_HEADER"
-msgstr ""
+msgstr "Дохід зменшено на {INT_Percentage}%"
 
 msgid "CRISIS@1160_1612@DESCRIPTION"
-msgstr ""
+msgstr "Дохід зменшено на {INT_Percentage}%"
 
 msgid "CRISIS@1160_1612@NAME"
-msgstr ""
+msgstr "[WIP] Failed Turn 20 Check"
 
 msgid "CRISIS@1160_1612@SUB_HEADER"
-msgstr ""
+msgstr "Дохід зменшено на {INT_Percentage}%"
 
 msgid "CRISIS@1194_642@DESCRIPTION"
 msgstr ""
@@ -12510,7 +12521,7 @@ msgid "CULTURE_FEUDAL@HERO_FIRSTNAME_59@NAME"
 msgstr "Івейн"
 
 msgid "CULTURE_FEUDAL@HERO_HOUSENAME_01@NAME"
-msgstr ""
+msgstr "Оллдір^z"
 
 msgid "CULTURE_FEUDAL@HERO_HOUSENAME_02@NAME"
 msgstr "Олдґейт^z"
@@ -16393,6 +16404,12 @@ msgstr ""
 
 msgid "DEFAULT@LORDS@RACE_NOCTUS@BIO"
 msgstr ""
+"Ноктуса було отруєно після першого дня правління на посаді Верховного канцлера. Завдяки некромантії він не лише повернувся з <<gen:"
+"{GLOBAL.AstralVoidLoreConcept.Hyperlink}>> як <<:c:{GLOBAL.WizardKingLoreConcept.Hyperlink}>>, але й привів із собою "
+"[hyperlink,GLOBAL.SoulsLoreConcept]душі[/hyperlink] своїх предків, які відкрили йому таємницю смерті й вічності, і помстився тим, "
+"хто завдав йому кривди.[br/][br/]Орки-Ерудити майже одержимо цікавляться історією та смертю, безперестанно шукаючи способи "
+"поповнити свої бездонні бібліотеки. Вони балансують на межі між археологією та грабунком гробниць, іноді повертаючи померлих до "
+"життя, щоб перевірити свої дослідження."
 
 msgid "DEFAULT@LORDS@RACE_PREORDERTIGRANKNIGHT@BIO"
 msgstr ""
@@ -64554,20 +64571,17 @@ msgstr "Монархія^fn"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@CHIMES_OF_MOMENTUM@DESCRIPTION"
 msgstr ""
-"Надає загонам, що не належать до початкової культури:[bulletlist][bullet/]"
-"{GLOBAL.PROPERTIES.EMPOWERING_MOMENTUM.Hyperlink}.[/bulletlist]"
+"Надає загонам, що не належать до початкової культури:[bulletlist][bullet/]{GLOBAL.PROPERTIES.EMPOWERING_MOMENTUM.Hyperlink}.[/"
+"bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@CHIMES_OF_MOMENTUM@NAME"
 msgstr "Дзвони імпульсу"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@SWIFTSTRIKE_BLESSING@DESCRIPTION"
 msgstr ""
-"Обраний союзний загін, який має очки дії, та інший загін у межах "
-"{SWIFTSTRIKE_BLESSING_TARGETER>MaxDistance} [range/] отримують:[bulletlist]"
-"[bullet/]{GLOBAL.PROPERTIES.MOMENTUM.Hyperlink} на "
-"{MOMENTUM_STATUS_EFFECT>NumTurns} [turn/].[bullet/]"
-"{GLOBAL.PROPERTIES.FORTUNE.Hyperlink} на "
-"{FORTUNE_EFFECT_DESCRIPTION>NumTurns} [turn/].[/bulletlist]"
+"Обраний союзний загін, який має очки дії, та інший загін у межах {SWIFTSTRIKE_BLESSING_TARGETER>MaxDistance} [range/] отримують:"
+"[bulletlist][bullet/]{GLOBAL.PROPERTIES.MOMENTUM.Hyperlink} на {MOMENTUM_STATUS_EFFECT>NumTurns} [turn/].[bullet/]"
+"{GLOBAL.PROPERTIES.FORTUNE.Hyperlink} на {FORTUNE_EFFECT_DESCRIPTION>NumTurns} [turn/].[/bulletlist]"
 
 msgid "DLC@RISEFROMRUIN@CULTURE_NOMAD@SUBCULTURE@CONQUERERS@RESEARCH_SKILL@SWIFTSTRIKE_BLESSING@NAME"
 msgstr "Благословення швидких ударів"
